@@ -1,7 +1,7 @@
 ---
-title: "My First Post"
-date: 2023-08-28T18:32:03+01:00
-draft: false  # true
+title: "other for myself to look at"
+date: 2022-08-28T18:32:03+01:00
+draft: true
 toc: true
 collapsible_toc: true
 math: true
@@ -18,12 +18,11 @@ keywords:
 - hugo theme monochrome
 
 categories: ['one','two']
-
 ---
 
 <!-- {{< breadcrumbs >}} -->
 
-# blog 1
+# tests
 
 ## Where does it come from?
 

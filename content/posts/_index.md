@@ -1,11 +1,11 @@
 ---
-title: "posts"
+title: "Posts"
 date: 2023-07-21T19:02:16+01:00
-#toc: false
-#type: list
+toc: false
+pagination: true
 ---
 
-### list of posts?? 
+# Archive 
 
 <!--{{< recent-posts sortby="lastMod" limit=5 >}}-->
 

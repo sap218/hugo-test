@@ -1,10 +1,10 @@
 ---
-title: "projects index"
+title: "Projects"
 date: 2023-08-28T19:02:16+01:00
+toc: false
 pagination: true
 ---
 
-## projjies
+# Academia
 
-
-### and
++ https://sap218.uk/ocimido/
