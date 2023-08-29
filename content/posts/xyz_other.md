@@ -24,7 +24,7 @@ categories: ['one','two']
 
 # tests
 
-## Where does it come from?
+## Where does it come from? {#custom-id}
 
 {{< icon vendor="feather" name="globe" link="https://sap218.uk" >}}
 {{< icon vendor="feather" name="moon" >}}
@@ -34,6 +34,11 @@ categories: ['one','two']
 
 
 <!--{{< terms-cloud terms="categories" >}}-->
+
+term
+: definition
+
+![alty text](/test/thanky.jpg)
 
 
 {{< color-block style="success" >}}
