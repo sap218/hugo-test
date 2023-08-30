@@ -7,6 +7,4 @@ pagination: true
 
 # Archive 
 
-<!--{{< recent-posts sortby="lastMod" limit=5 >}}-->
-
 {{< recent-posts sortby="publishDate" limit=0 >}}

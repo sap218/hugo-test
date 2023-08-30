@@ -1,12 +1,12 @@
 ---
-title: "index"
+title: "Index"
 date: 2023-08-28T19:02:16+01:00
-pagination: true
 toc: false
+pagination: true
 ---
 
-# Dr Samantha Pendleton, PhD
+# Dr Samantha Pendleton
 
-Clinical Informatician PhD with a . Data wrangler/scientist at the University of Oxford.
+PhD in Clinical Informaticis. Data wrangler/Data scientist at the University of Oxford. 
 
 ## Posts

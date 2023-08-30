@@ -2,18 +2,18 @@ baseURL = 'https://sap218.uk/'
 languageCode = 'en-us'
 title = 'sap218'
 theme = 'mono'
-googleAnalytics = "xxx"
-
+#googleAnalytics = "xxx"
 
 [params]
 author = "sap218"
-description = "blog site"
-#enable_toc = true
-#enable_collapsible_toc = true
-#enable_collapsible_changelogs = true
+description = "a site"
+enable_toc = false
+enable_collapsible_toc = true
+enable_collapsible_changelogs = true
 footer = "Copyright © 2023 by sap218"
-enable_math = true 
 enable_site_search = true 
+enable_zooming_js = false # to make true for particular pages if need
+enable_math = false # same as above
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -21,11 +21,9 @@ home = ["HTML", "RSS", "JSON"]
 [params.list_layout]
 enable_group_by_year = true 
 enable_show_date = true 
-enable_pagination = false 
+enable_pagination = true 
 
-
-
-
+###################
 
 [[menu.navbar]]
 identifier = "about"
@@ -51,3 +49,5 @@ identifier = "projects"
 name = "projects"
 url = "/projects/"
 weight = 80
+
+# end of page
