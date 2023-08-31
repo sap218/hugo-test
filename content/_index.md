@@ -7,6 +7,8 @@ pagination: true
 
 # Dr Samantha Pendleton
 
-PhD in Clinical Informaticis. Data wrangler/Data scientist at the University of Oxford. 
+Wrangler of data, ontologies, and . 
+
+Pot thrower. 
 
 ## Posts

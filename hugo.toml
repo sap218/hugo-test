@@ -28,7 +28,7 @@ enable_pagination = true
 [[menu.navbar]]
 identifier = "about"
 name = "about"
-title = "about"
+#title = "about"
 url = "/about/"
 weight = -100
 

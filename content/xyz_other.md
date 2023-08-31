@@ -59,7 +59,7 @@ term
 
 <!-- ![alty text](/test/thanky.jpg) -->
 
-{{< figure src="/grad.jpg" width="100" title="title" caption="caption" alt="if img not displayed show text" >}}
+{{< figure src="/career/post-viva.jpg" width="100" title="title" caption="caption" alt="if img not displayed show text" >}}
 
 ***
 
