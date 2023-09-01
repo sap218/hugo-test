@@ -1,6 +1,6 @@
 ---
 title: "Features"
-date: 2022-08-28T18:32:03+01:00
+date: 2023-08-29T13:45:03+01:00
 draft: true
 
 toc: true
@@ -57,9 +57,9 @@ term
 
 #### Figure
 
-<!-- ![alty text](/test/thanky.jpg) -->
+<!-- ![alty text](/dir/fig.jpg) -->
 
-{{< figure src="/career/post-viva.jpg" width="100" title="title" caption="caption" alt="if img not displayed show text" >}}
+{{< figure src="/academia/post-viva.jpg" width="100" title="title" caption="caption" alt="if img not displayed show text" >}}
 
 ***
 
