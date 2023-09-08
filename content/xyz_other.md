@@ -74,19 +74,19 @@ term
 #### Word blocks
 
 {{< color-block style="success" >}}
-hello world
+SUCCESS
 {{< /color-block >}}
 
 {{< color-block style="info" >}}
-hello world
+INFO
 {{< /color-block >}}
 
 {{< color-block style="warning" >}}
-hello world
+WARNING
 {{< /color-block >}}
 
 {{< color-block style="error" >}}
-hello world
+ERROR
 {{< /color-block >}}
 
 ***

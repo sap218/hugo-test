@@ -7,10 +7,10 @@ pagination: true
 
 # Dr Samantha Pendleton
 
-Wrangler of data, ontologies, and . 
+Wrangler of data, ontologies, and clusters. 
 
-Pot thrower. 
+Thrower of pots, controllers, and eggs.
 
-{{< figure src="/drwio.png" alt="my graduation, next to me in wales national botantical gardens on a sunny day, next to me in york on a winter day" >}}
+{{< figure src="/banner.drawio.png" alt="collection of my favourite photographs with me in the middle" >}}
 
 ## Posts

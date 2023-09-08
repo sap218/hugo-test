@@ -40,7 +40,10 @@ hugo new content posts/hello-world.md
 Then run with **`Hugo server`** - adding parameter `-D` when this post was a draft.
 
 ## Where have I been?
-My last blog was in 2022 and before that 2021 - I'd like to find more time to post about projects or work. So where was I this past year? 
+My last blog was in 2022 and before that 2021. I have a *not-so-great* habit of starting a project, become invested, and then when I aim to write-up, I lose the energy.
+I'd like to find more time to post about projects, work, or more.
+
+So where was I this past year? 
 I completed my PhD! Now officially a **Doctor in Clinical Informatics**. I aim to write-up the PhD: the Viva and corrections. 
 My graduation was in July, my family visited Birmingham for the first time and although it rained, it was an amazing day spent with my favourite people.
 
@@ -48,4 +51,4 @@ My graduation was in July, my family visited Birmingham for the first time and a
 
 Even bigger news is that I’m moving to Oxford *very* soon! I've been living in a caravan for the past year, saving, to make a big leap and move closer to work.
 I’ve been at my current job since 2022, Data wrangler/scientist at the Big Data Institute, the University of Oxford.
-**Stay tuned!**
+**Stay tuned for *hopefully* more content!**
