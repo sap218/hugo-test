@@ -35,7 +35,7 @@ In my feedback, one particular quote will stick with me forever:
 I've made my [**undergraduate dissertation final report**](https://github.com/sap218/misc/blob/master/undergraduate_dissertation.pdf) available for anyone who would like to read.
 I graduated in 2017 and went onto a Data Science Masters.
 
-{{< figure src="/aberystwyth/ug_graduation.jpg" width=500 alt="collection of my favourite photographs with me in the middle" >}}
+{{< figure src="/aberystwyth/ug_graduation.jpg" width=500 alt="me at my undergraduate graduation" >}}
 
 **Final fun facts:**
 + I was elected President of the Computer Science Society, `AberCompSoc`
