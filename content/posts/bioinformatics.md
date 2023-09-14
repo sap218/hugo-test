@@ -81,7 +81,8 @@ So this was the final week to wrap-up the summer research project. As a final ta
 We intended to present this work at the BCS Mid Wales "Show & Tell" event as a [**poster**](https://github.com/sap218/misc/blob/master/bioinformatics_poster.pdf). But with 24 hours notice, I was also asked to prepare a presentation. The presentation was less than 5 minutes due to running out of time, but I [enjoyed my first experience presenting a research project](https://twitter.com/sap218/status/914106415664500736)!
 I also presented my poster to the Aberystwyth Bioinformatics lab and we discussed the results and how some tools that were originally designed for short reads may need updating to handle longer reads.
 
-
 I would like to thank my supervisor [Amanda Clare](https://twitter.com/afcaber) for the fun opportunity.
 Researcher [Andre Soares](https://twitter.com/GeoMicroSoares), for discussions about the data.
 And [Sam Nicholls](https://twitter.com/samstudio8), the developer of `Goldilocks`.
+
+{{< figure src="/aberystwyth/poster.jpg" width=400 alt="me presenting my bioinformatics poster" >}}

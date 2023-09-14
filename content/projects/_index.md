@@ -8,4 +8,6 @@ pagination: true
 # Academia
 
 + https://sap218.uk/ocimido/
-+ more to come!
++ colours , indigo, cyan, maize
++ acidoseq
++
