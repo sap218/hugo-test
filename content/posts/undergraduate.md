@@ -8,7 +8,7 @@ toc: false
 # Highlights during my Undergraduate degree
 
 I decided to back-date this post as it covers my Undergraduate degree.
-As mentioned in the [Version 3 blog]({{< ref "/hello-world" >}} "Version 3 blog"), I am not the best of writing-up some things.
+As mentioned in the [Version 3 blog]({{< ref "/hello-world#where" >}} "Version 3 blog"), I am not the best of writing-up some things.
 
 I started my Undergraduate degree at Aberystwyth University in 2014. Initially I hadn't planned to leave Liverpool but I was rightfully persuaded by an IT teacher, who had sparked my interest in computers.
 

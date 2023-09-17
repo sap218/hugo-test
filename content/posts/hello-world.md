@@ -39,7 +39,7 @@ hugo new content posts/hello-world.md
 ```
 Then run with **`Hugo server`** - adding parameter `-D` when this post was a draft.
 
-## Where have I been?
+## Where have I been? {#where}
 My last blog was in 2022 and before that 2021. I have a *not-so-great* habit of starting a project, become invested, and then when I aim to write-up, I lose the energy.
 I'd like to find more time to post about projects, work, or more.
 
