@@ -71,45 +71,51 @@ The importance of the presentation is showing communication skills, current abil
 Some panels instruct different times: some only request a 7 minute presentation then 3 minutes after for questions covering the talk.
 
 Someone was requested the following prompt: "Something about yourself that the panel would find interesting".
-Personally this is a very open question with a lot of possibilities, though I understand the struggle of what to decide to present. Perhaps you could talk about a job during your industrial year, how long have you been coding, a personal project, why you enjoy the research area, why your undergraduate course is completely different and how/why you're diverting.
+This is an open question with a lot of potential, though I do understand the struggle of what to present. Perhaps you could talk about a job during your industrial year, a personal project, or your coding history?
 
 ### Highlighting skills in the presentation
 
-Skills might be mentioned in your presentation (if you have one), others might come up in the questions, you'll probably mention skills in the essay. I think the panel will ask about skills which they think are relevant, e.g. the supervisor asking about how I’d handle a dataset and asking me to expand on machine learning. I would definitely mention the skills that are popular in the area, e.g. a skill in bioinformatics is being able to code. Also statistics is a good skill to mention, but don’t worry if you don’t mention it: I didn’t mention it at all (only in the application essay). I feel like it’s just a few buzzwords you need to know of your skills, e.g. currently I would say my skills in terms in buzzwords are: unsupervised machine learning: clustering; statistics: dimension reduction; natural language processing: word embeddings. But if I were to have an interview today, I would mention these in terms of projects/papers: what skills I used during particular projects to reflect for the job I'm applying for.
-Some possible general skills to mention: presentation and communication skills; good listener and a keen learner; enthusiastic, independent student. During my PhD, I have found that I’ve become very independent and I'm still enthusiastic about my work. My communication skills have increased and I’m becoming more confident when I talk about my work during meetings or seminars.
+For those who have to write an essay for the application, skills should be mentioned here - but they can also be easily be mentioned in the presentation. 
+It's all about buzz words. If you're presenting a recent coding project, you can throw in the programming language or how you uploaded code to GitHub.
+
+Less techincal skills are worth mentioning: presentation/communication skills, a keen learner/independent student, or enthusiastic.
+The panel might ask skill-related questions at the end - this is a great opportunity to highlight more! In a personal experience, my supervisor asked about how I'd handle a dataset and asking me to expand in terms of machine learning.
 
 ### Interview questions
 
-After a presentation, usually the first few questions are regarding the presentation.
-One often difficult question is "what would you do differently?" this question means having to critique your own work. Usually research projects have an improvements/future section to consider so it'd be worth recalling those.
-
-Technical questions may be specific methods to the presentation or the PhD.
-An important thing to remember here is if a question is about a skill needed for the PhD, it's OK to say you don't know: but iterate that you're willing to learn.
-
-One question I remember clearly from my supervisor, "what would you do if I gave you a dataset of patients with heart disease?". Knowing this project was ML-based, I decided to try and go for that angle.
-I mentioned data cleaning is the first step and then said either a supervised or unsupervised method based on the aim.
-Supervisor seemed to like my response, but wanted to know more and asked what I meant more specifically. 
-I vaguely remember saying something like "Using `Python` I would do unsupervised clustering to look at patterns in the data." 
+After a presentation, usually the first few questions are regarding the presentation itself.
+One - often difficult - question is "what would you do differently?" this means critiquing your own work. Usually research projects have an improvements/future section to consider so it'd be worth recalling those.
 
 I found the panel wanted to know things about me. 
-For example, my funding body plan group activities for that cohort of students and wanted to see if I'd be the type of person who would involve myself.
-They asked questions like, "how would someone describe you?" and the question everyone dreads, "what is your biggest weakness?". I mentioned my biggest flaw was being shy, but I've overcome a lot of obstacles since my undergraduate days by involving myself in conferences. 
-The panel seemed to appreciate the response and honesty.
+For example, my funding body wanted to know if I'd be the type of person who would involve myself in activities.
+They asked questions like, "how would someone describe you?" and the question everyone dreads, "what is your biggest weakness?". 
+I've found this particular question benefits from honesty but also a reflection on how you're working on this. For example, I mentioned my biggest flaw was being shy, but that I've overcome a lot of obstacles since my undergraduate days by involving myself in conferences and I'm still working on this. 
+The panel seemed to appreciate the honesty and self-reflection.
 
-Questions were then directed about the PhD: "do you enjoy research?" and "what do you think about the PhD project?" Personally, I love research because it gives me the chance to explore a dataset with both current and new skills. I mentioned I love presenting my work and I think they appreciated my enthusiasm!
+The questions then directed to a technical area and about the PhD: "do you enjoy research?" and "what do you think about the PhD project?" of course it'd be ideal that you enjoy research to pursue a PhD.
+The technical questions may be specific methods you mentioned in the presentation or skills needed for the PhD.
+An important thing to remember here: it's OK to say you don't know a particular skill - even if you've not heard of it - as you can you show a willingness to learn.
 
-You could mention a paper related to the PhD project - e.g. if the PhD is based on genomics then perhaps find a paper you enjoy about genomics. Maybe you could present a paper that interests you in general or a paper that was a main citation in your MSc dissertation? Personally I think they would ask this because they want to see you actually read a paper and you can talk about it (don’t worry if you can’t answer a question about it). If it were me: I would cover why the paper is interesting: do they use a particular method, are their results interesting, or do you think their conclusion is relevant? Perhaps maybe talk about what you would have done differently (e.g. what method would you do instead).
+One question I remember clearly from my supervisor, "what would you do if I gave you a dataset of patients with heart disease?". Knowing this project was ML-based, I decided to try and go for that angle, despite the vagueness.
+I mentioned data cleaning is the first step and then said either a supervised or unsupervised method based on the research question.
+My supervisor seemed to like my response, but wanted to know more and asked what for some specifics. I vaguely remember saying something similar: "Using `Python` I would do unsupervised clustering to look at patterns in the data" (showing skills).
 
 #### Trick questions
 
-This is a tricky one: I was prepared for my interview, except for one thing: I didn’t do much background research into the supervisor! A question that was asked, "what do you know of the supervisor?" This one surprised me, but I knew of the supervisor as they were previously at my university and staff members spoke fondly of him. However I didn’t actually look into their research or papers, I knew they did ontologies, which I too enjoyed, so I mentioned that. But I’m not 100% sure if they were hoping for more.
-The only trick question that I definitely didn't expect at all: "out of all your supervisors' papers, which one did you like the most?" - this one caught me off guard! Some people I spoke to afterwards said this was a very common question, so I wish I knew about it! I was completely honest and said something like, "I am really sorry but I haven't read any of their papers. But I have heard of *supervisor* and people have spoken fondly of them". I think they appreciated the honesty, and my supervisor seemed happy.
+This can be quite subjective - my opinion on a tricky question can differ from someone else's.
+Although I was prepared for my interview (research topic and presentation) and did some background research into the supervisor - I didn't read any of their papers!
 
-## Any final tips?
-The PhD is a time to learn about various methods and techniques, so one of my tips would be don’t worry if you can’t answer a question, or even at all. As long as you have some response, if it’s “...sorry but I haven't read any of their papers…”, then they will appreciate it. But again, this is my opinion.
-I personally believe a good tip is to be yourself: I felt like the main part of my interview was that they wanted to see what I wrote for the application was true. They wanted to see that I knew about the skills I put down on the application - there’s no need to lie, or exaggerate the truth. The panel wanted to know who I was as a potential researcher, they’re not there to be mean or trick you, rather to catch out people who may have written down stuff on the application which wasn’t true, yet was relevant for the PhD.
-I put keywords in bold throughout my presentation slides, e.g. "sequences, Python, machine learning, bioinformatics tools, ontology". To highlight specific skills and knowledge. This really catches the eye! Furthermore I tried to say some buzzwords, “data cleaning” and “unsupervised”. Even if I never use particular skills in the PhD, by using buzzwords in my application and interview they knew what I was capable of and future potential. Some other terms that could be useful, "statistics", "GWAS", "sequencing", “genes”, “traits”, “phenotype”, and more.
-Finally, maybe do a little background research of your supervisor, even it’s a few key-words, e.g. you can playback to the panel words like: ontology. But of course make sure you know what these things are! You don't need to know the inner details and the algorithms, as long as you know something about these buzzwords, your skills, and yourself: I think you'll be fine.
+A question I recieved, "out of all your supervisors' papers, which one did you like the most?". This one personally I thought was a "trick" question (someone I spoke to afterward disgareed and thought it should be expected).
+But personally this question caught me off guard! I knew my supervisor's research areas but didn't read a paper and so I was completely honest and said something like, "I am really sorry but I haven't read any of their papers. But I have heard of *supervisor* and people have spoken fondly of them". I think they appreciated the honesty, and my supervisor seemed happy.
+
+## Final tips/comments
+
++ The PhD is a time to learn about various methods and techniques, so try not to worry if you can't answer a question - honest responses are appreciated.
++ Be yourself: they want to see if you're a good fit and if you are who wrote the application. The panel want to know who you'll be as a researcher.
++ Buzz words should include your skills and other relevant topics - but don't throw them needlessly and without knowledge.
++ Finally, do a little background research into the research area and the supervisor - but don't worry about needing to know the inner details and the algorithms.
 
 ### Good luck!
-The PhD is a learning and development journey, so even if you don't fully understand some things try not to worry: the PhD is a time for the supervisor to pass on their knowledge and you’ll learn other stuff. Good luck to anyone reading this who is preparing for a PhD application/interview. It’s not a personality contest! They just want to know you: if your skills and knowledge are fit. It’s OK to not know everything related to the PhD proposal, the PhD is a time to learn along the way, it’s OK if they ask a question you don’t know the answer to. Who knows what the panel think! I walked in my interview nervous and came out feeling positive! These are all my opinions and experience - everyone is different - and the panel will ask different things. Despite feeling like the panel wanted to know more about me and my skills, I don't actually know what they thought or said afterwards.
+These are all my opinions and experiences - everyone's is different - and each panel will ask different things.
+The PhD is a learning and development journey and the supervisor should be passing on their knowledge. 
+Good luck to anyone reading this who is preparing for a PhD application/interview.

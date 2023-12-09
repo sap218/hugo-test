@@ -13,4 +13,4 @@ Thrower of pots, controllers, and eggs.
 
 {{< figure src="/banner.drawio.png" alt="collection of my favourite photographs with me in the middle" >}}
 
-## Posts
+## Content

@@ -26,6 +26,10 @@ categories: ['one','two']
 
 # Draft blog for features
 
+this is everything 
+
+{{< recent-posts sortby="publishDate" limit=0 >}}
+
 ***
 
 ### Third header {#customid}

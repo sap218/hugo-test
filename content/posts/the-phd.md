@@ -1,6 +1,6 @@
 ---
 title: "The PhD"
-date: 2023-09-14T14:45:03+01:00
+date: 2023-12-10T14:45:03+01:00
 draft: true
 toc: true
 ---
