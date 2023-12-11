@@ -1,8 +1,7 @@
 ---
 title: "Hello World"
 date: 2023-12-09T14:45:03+01:00
-draft: false
-toc: false
+categories: ['other']
 ---
 
 # Version 3 has been released

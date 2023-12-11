@@ -1,13 +1,13 @@
 ---
 title: "Masters Dissertation"
 date: 2018-10-02T15:45:03+01:00
-draft: false
 toc: true
+categories: ['masters','python','bioinformatics']
 ---
 
 # Metagenomics of Acid Soil: a study of Nanopore long-reads and Acidobacteria
 
-Since I enjoyed my [Summer Bioinformatics research position]({{< ref "/bioinformatics" >}}) (2017), for my Masters dissertation I hoped to work with [Amanda Clare](https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/afc/) again.
+Since I enjoyed my [Summer Bioinformatics research position]({{< ref "/bioinformatics-project" >}}) (2017), for my Masters dissertation I hoped to work with [Amanda Clare](https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/afc/) again.
 
 Amanda spoke to the same research group, who had new sequences for me to look at.
 These reads were derived using Nanopore sequencing from Aberystwyth soil.

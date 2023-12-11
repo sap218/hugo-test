@@ -1,9 +1,8 @@
 ---
 title: "Outsider Perspective of a PhD"
 date: 2018-06-12T14:45:03+01:00
-draft: false
-toc: false
 zooming_js: true
+categories: ['phd','bioinformatics','my perspective']
 ---
 
 # Witnessing my partner writing their PhD

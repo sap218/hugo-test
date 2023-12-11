@@ -1,8 +1,7 @@
 ---
 title: "Lovelace Colloquim"
 date: 2018-04-06T15:45:03+01:00
-draft: false
-toc: false
+categories: ['conference','bioinformatics']
 ---
 
 # BCS Lovelace Colloquim
@@ -10,7 +9,7 @@ toc: false
 The [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) is an annual conference for women and non-binary indiviudals in computer science and related fields.
 This year's conference was being held in Sheffield, which I was both excited and nervous as I had only ever visited very few places in the UK.
 
-I submitted an abstract based on the [Bioinformatics research]({{< ref "/bioinformatics" >}} "Bioinformatics blog") I had done the Summer previous.
+I submitted an abstract based on the [Bioinformatics research]({{< ref "/bioinformatics-project" >}} "Bioinformatics blog") I had done the Summer previous.
 I used the [previous poster](https://github.com/sap218/misc/blob/master/bioinformatics_poster.pdf) and improved/updated it.
 
 Due to terrible traffic on the way to Sheffield, I missed the beginning of the social activities (the treasure hunt). But was able to join the the group a little towards the end of the evening.

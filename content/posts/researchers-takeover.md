@@ -3,6 +3,7 @@ title: "ResearcHers Code takeover"
 date: 2021-02-12T14:45:03+01:00
 draft: true
 toc: true
+categories: ['phd','trends']
 ---
 
 {{< color-block style="info" >}}
@@ -69,42 +70,66 @@ My Masters project used a varity of skills, especially `Python` looking at Acido
 
 ## Tuesday: PhD
 
-The first thing I wanted to discuss is PhD applications! I’ve had a few questions from Masters students over the past year about PhD application essays & interviews - I’ll write some tips from the blog in this thread!
-1. Skills to highlight: mention all the modules you did during your undergraduate and/or masters! All are relevant, but maybe focus a little more on the ones that might be specifically related to the PhD project! Also what skills have you USED?
-2. Don’t worry if you don’t think you’re good at a particular skill - what’s important is that you know about it and doing the PhD gives you the chance to improve that skill!
-3. Don’t forget the non-technical skills like “communication” or “presenting” - you’ll probably have to present your PhD work at some point!
-4. If you are presenting at the interview, put skills or buzzwords in bold to highlight what you can do! Be prepared for possible questions like, “how would you do it differently?” - but questions about the presentation depend on the topic
-5. Interview questions: they can range from technical, or questions about yourself! Be prepared for the dreaded question: “what is your biggest weakness?”
-6. A personal opinion is that I felt like the interview panel wanted to get to know me: was I a good fit? Did I know what I was talking about?
-7. Technical questions can include, “how would you handle a particular dataset?” or “how would you run a GWAS?” - remember, some questions have no wrong answers - they genuinely just want to know your response!
-8. Try and throw in some buzzwords that may be relevant for the PhD in terms of skill! But of course make sure you know what these words are - they may pick up if you start throwing random words around
-9. Do some background research into the PhD supervisor! Find out their main paper topics, or what people in their lab are doing
-10. The PhD is a learning and development journey, so even if you don't fully understand some things try not to worry: the PhD is a time for the supervisor to pass on their knowledge and you’ll learn other stuff
-11. Be yourself! Don’t be afraid to answer a question in your own way! And don’t be afraid if you don’t have an answer!
+One of the major topics I wanted to discuss is my PhD.
 
-My PhD is focused on inflammation! I am looking into non-traditional biomarkers of inflammation through various methods & data sources: structured electronic health records and unstructured clinical letters. Some possible non-traditional biomarkers could include blood counts/biochemistry or clinical letters telling us a patients’ current status, treatment, and symptoms - additionally some associated genetic traits.
-My original PhD title was different: the plan was to use various Biobanks studies and link up missing gaps, however we soon learnt that the data wasn’t available... The new aim is to work on patients in the UK Biobank, which is a long study aimed to investigate the contributions and development of a disease both genetically and environmentally.
+Firstly I'd like to discuss PhD applications! I've had a few questions from Masters students over the past year about PhD applications, including essays & interviews.
+
+******* link to phd applications blog
+
+My PhD is focused on inflammation!
+I am looking into non-traditional biomarkers of inflammation through various methods & data sources: structured and unstructured.
+Some non-traditional biomarkers includes blood assays or clinical letters.
+
+My original PhD title was different: the plan was to use various Biobanks studies and link up missing gaps, however we soon learnt that the data wasn't available... 
+The new aim is to work on patients in the UK Biobank, which is a long study aimed to investigate the contributions and development of a disease both genetically and environmentally.
 
 "Creating an AI based data assistant to bridge genotype to metadata linking primary clinical data to biobank sample" - my original PhD title
 
-To link back to yesterday and my coding experience - currently my main language is Python, sometimes I use R for statistics or plotting. At first, I struggled a lot with Python dictionaries but I’ve finally become friends with them.
+To link back to yesterday and my coding experience - currently my main language is `Python`, sometimes I use `R` for statistics or plotting. At first, I struggled a lot with `Python` dictionaries but I've finally become friends with them.
 
 ## Wednesday: skills
 
-My main interests and career ambitions are: machine learning, ontologies, and natural language processing!
+My main interests are: machine learning, ontologies, and natural language processing!
 
-Machine learning (ML) is “learning from data”, it can be supervised prediction with labeled data or unsupervised clustering finding underlying relationships in datasets. I’m personally interested in clustering as I like to observe patterns and in my data and try to interpret the cluster groups, I’ve used K-means, hierarchical, DBScan, plus more! Because I work with such large datasets, I have used various dimensionality reduction methods: specifically t-SNE and PCA. An interesting tool I found is PCAmixdata for R - essentially it combines a PCA (continuous) and MCA (categorical) results - I would definitely recommend! The main toolkit I use for my clustering pipelines is the scikit-learn Python module! I use it for dimensionality reduction, optimal number of K, and clustering! I like to say that there’s no “right way” to do machine learning - but parameter finetuning can improve results! Don’t forget visualisation - it’s important to see what the data looks like too.
+Machine learning (ML) is "learning from data", it can be supervised prediction with labelled data or unsupervised clustering to highlight unseen relationships in data.
 
-Ontologies condense a domain of knowledge in formalised structure. The concepts of an ontology have metadata and relationships, for example in human anatomy: hand “part of” arm [synonym = upper limb]. Ontologies allow us to do association text mining: we can extract important sentences from a document using terms and their corresponding synonyms. Linking with natural language processing (NLP), NLP is using computers to look at human language and interaction. I aim to look at those clinical letters of patients with inflammation! So far I have looked into word vectorising (word2vec): looking how terms are closely related to one-another from different sources, combining this with ontologies we can do semanity similarity! If you want a way to visualise an ontology, I recommend: WebVOWL - it’s an online application with interactive features! If you are interested in NLP, I recommend: spaCy - it supports many languages, very fast, and has pre-trained models! I personally find this tool the best one I’ve used for PoS tagging and such thus far.
-Doing my work for association text mining or semantic similarity with documents and ontologies is difficult because a lot of tools that exist for NLP tasks don’t include features for ontology extraction... A first step to overcome this barrier, I made Jabberwocky! An initial plan to plug-in an ontology for associated text mining: using an ontology term and it collects the synonyms - my future plan is to incorporate spaCy with it!
+I'm most interested in clustering as I like to observe patterns in my data and enjoy exploring the clusters.
+I've used `K-means`, `hierarchical`, `DBScan`, `spectral`, and more!
+Because I work with such large datasets, I have used various dimensionality reduction methods: specifically `t-SNE` and `PCA`. An interesting tool I found is `PCAmixdata` (in `R`) essentially combining `PCA` (continuous) and `MCA` (categorical) - I would definitely recommend!
 
-Finally, currently I have been doing some genome-wide association studies (GWAS): looking into genetic variants of a group of people to observe if any variant is associated with a trait. An example of this can be looking at patients with diabetes and observing if they have the same variant which is associated with a particular trait. To be quite honest, this is not my strongest point - as I don’t feel quite knowledgeable in the genetics area yet, but individuals in my lab co-created an R & bash pipeline which they shared with me!
+The main toolkit I use for my clustering is the `scikit-learn` module in `Python` - it also includes functionality for dimensionality reduction and methods for the optimal number of `K`.
+I like to say that there's no "right way" to do machine learning - but parameter finetuning can improve results! Don't forget visualisation - it's important to see what the data looks like too.
+
+Ontologies condense a domain of knowledge in formalised structure. The concepts of an ontology have metadata and relationships.
+For example in human anatomy: hand "part of" arm [synonym = upper limb]. 
+
+Ontologies allow us to do association text mining: we can extract important sentences from a document using terms and their corresponding synonyms. 
+In relation to my PhD: I aim to look at clinical letters of patients with inflammation and look into word vectorisation: looking how terms are closely related to one-another.
+
+If you want a way to visualise an ontology, I recommend the `WebVOWL` online tool - with interactive features!
+If you are interested in NLP, I recommend `spaCy` as it has a brilliant tutorial/guide - I personally find this tool the best one for `PoS tagging` and such thus far.
+
+************* link jabberwocky
+
+My NLP work has proved difficult as many tools that exist for NLP tasks don't allow for easy ontology use and additional wrangling was needed... A first step to overcome this barrier: I made Jabberwocky! An initial plan to plug-in an ontology for associated text mining.
+
+Finally, I have also been dipping my toes into the genomics side of bioinformatics via genome-wide association studies (GWAS): looking into genetic variants of a group of people to observe if any variant is associated with a trait; e.g. diabetic patients could have the same variant which is associated with a particular trait of diabetes.
+To be honest, this is not my strongest skill: I don't feel confident in the genetics area yet, but individuals in my lab co-created a script and shared with me!
 
 ## Thursday: struggles
 
-One of my biggest struggles is trying to explain my methods or results to others - I’m still learning about terms I should be using or still trying to interpret the biological meaning... An example of this is: using “feature” instead of “column” or “variable” when describing my data or methods.
-Writing - I actually don’t mind writing even though my grammar does seem to be terrible...BUT it doesn’t stop me from trying, and I appreciate that others spend time improving my work! It started off quite difficult to accept feedback, I felt like I was so bad at writing and I was embarrassed - but I’ve learnt to accept and value comments! I appreciate those who help me to improve my work.
-It’s important for me to have some sort of IDE while programming. I like to easily run a script and observe my variables - I need to “see” my output before I can continue, maybe it’s because I’m still not 100% confident in my programming skills. I use Spyder for Python! But to run lines separately, some good tools are Jupyter Notebook (Python) or RStudio (R).
+One of my biggest struggles is trying to explain my methods or results to others - I'm still learning about terms that I should be using or still trying to communicate my results... An example of this is: using "feature" instead of "column" when describing data.
+
+Writing - although I enjoy writing, my grammar is not the best...BUT it doesn't stop me from trying, and I appreciate others spending time helping me improve my work!
+It started off quite difficult to accept feedback but it came from a place of embarrassment - I've learnt to value comments!
+
+Relating to work itself, it's important for me to have some sort of IDE while programming. I like to easily run a script, tab functions, and observe my variables.
+I need to "see" my output before I can continue, maybe it’s because I'm still not 100% confident in my programming skills.
+I use `Spyder` for `Python` and `RStudio` for `R`.
+
+##############################################
+CONTINUE HERE
+
 Conferences: I’m quite nervous about conferences because I worry that I’ll get asked a question about my work which I can’t answer - but I know they’re good for networking and career experiences!
 
 Mental health! It’s very important to take time for yourself and do things you enjoy! I’ve had to take a day or few off in the past year because of the overwhelming stress… No matter if you’re a student, in academia, or industry, you need to take care of yourself and it’s important for businesses/companies to take care of their employees! In 2018 I wrote a blog post about witnessing my partner writing their PhD: watching them sad, happy, angry…it was hard to watch that - and now being in that position, I completely understand!

@@ -1,8 +1,7 @@
 ---
 title: "Undergraduate"
 date: 2017-07-30T15:45:03+01:00
-draft: false
-toc: false
+categories: ['undergraduate']
 ---
 
 # Highlights during my Undergraduate degree
@@ -42,4 +41,4 @@ I graduated in 2017 and went onto a Data Science Masters.
 + To celebrate my graduation I made a lego minifigure of myself
 + Participated in the 2017 [BCS Lovelace Colloqium](https://github.com/sap218/misc/blob/master/lovelace_poster_2017.pdf)
 + "Assisted" a PhD student with their [PCR](https://twitter.com/sap218/status/910070653419704320) lab work 
-+ My first research project in [Bioinformatics]({{< ref "/bioinformatics" >}} "Bioinformatics blog")
++ My first research project in [Bioinformatics]({{< ref "/bioinformatics-project" >}} "Bioinformatics blog")

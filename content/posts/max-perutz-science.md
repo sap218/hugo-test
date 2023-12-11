@@ -1,8 +1,7 @@
 ---
 title: "Max Perutz Science Writing Award Entry"
 date: 2019-08-15T14:45:03+01:00
-draft: false
-toc: false
+categories: ['ontology','phd']
 ---
 
 # Weaving webs for smarter science

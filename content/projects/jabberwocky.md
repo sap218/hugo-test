@@ -1,8 +1,7 @@
 ---
 title: "Jabberwocky"
 date: 2021-05-11T14:45:03+01:00
-draft: true
-toc: false
+categories: ['python','ontology','nlp','tf-idf']
 ---
 
 # Jabberwocky: a toolkit for those nonsensical Ontologies

@@ -1,8 +1,9 @@
 ---
 title: "Colours"
 date: 2019-03-22T14:45:03+01:00
-draft: true
-toc: false
+draft: false
+toc: true
+categories: ['python','command line','nlp','sentiment']
 ---
 
 # Rainbow project

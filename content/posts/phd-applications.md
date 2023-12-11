@@ -1,8 +1,8 @@
 ---
 title: "Applying for a PhD"
 date: 2021-01-21T14:45:03+01:00
-draft: false
 toc: true
+categories: ['phd','my perspective']
 ---
 
 # My experience of the PhD application process

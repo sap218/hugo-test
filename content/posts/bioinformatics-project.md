@@ -1,8 +1,8 @@
 ---
 title: "Bioinformatics"
 date: 2017-10-06T15:45:03+01:00
-draft: false
 toc: true
+categories: ['python','bioinformatics']
 ---
 
 # My first Bioinformatics experience

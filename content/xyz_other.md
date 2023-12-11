@@ -19,7 +19,7 @@ keywords:
 - one
 - two
 
-categories: ['one','two']
+categories: ['other']
 ---
 
 ***
