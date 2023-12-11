@@ -1,6 +1,6 @@
 ---
 title: "Applying for a PhD"
-date: 2021-01-21T14:45:03+01:00
+date: 2021-01-21
 toc: true
 categories: ['phd','my perspective']
 ---
@@ -108,7 +108,7 @@ Although I was prepared for my interview (research topic and presentation) and d
 A question I recieved, "out of all your supervisors' papers, which one did you like the most?". This one personally I thought was a "trick" question (someone I spoke to afterward disgareed and thought it should be expected).
 But personally this question caught me off guard! I knew my supervisor's research areas but didn't read a paper and so I was completely honest and said something like, "I am really sorry but I haven't read any of their papers. But I have heard of *supervisor* and people have spoken fondly of them". I think they appreciated the honesty, and my supervisor seemed happy.
 
-## Final tips/comments
+## Final tips/comments {#tips}
 
 + The PhD is a time to learn about various methods and techniques, so try not to worry if you can't answer a question - honest responses are appreciated.
 + Be yourself: they want to see if you're a good fit and if you are who wrote the application. The panel want to know who you'll be as a researcher.

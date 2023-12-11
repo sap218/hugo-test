@@ -1,6 +1,6 @@
 ---
 title: "Max Perutz Science Writing Award Entry"
-date: 2019-08-15T14:45:03+01:00
+date: 2019-08-15
 categories: ['ontology','phd']
 ---
 

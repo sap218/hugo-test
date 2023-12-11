@@ -1,12 +1,16 @@
 ---
 title: "Colours"
-date: 2019-03-22T14:45:03+01:00
+date: 2019-03-22
 draft: false
 toc: true
 categories: ['python','command line','nlp','sentiment']
 ---
 
 # Rainbow project
+
+{{< color-block style="warning" >}}
+This page has not been updated.
+{{< /color-block >}}
 
 ## Indigo
 

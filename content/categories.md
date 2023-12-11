@@ -1,6 +1,6 @@
 ---
 title: "Categories"
-date: 2023-12-10T13:45:03+01:00
+date: 2023-12-10
 draft: true
 ---
 

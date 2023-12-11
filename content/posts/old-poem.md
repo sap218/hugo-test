@@ -1,6 +1,6 @@
 ---
 title: "Old Poem"
-date: 2017-08-31T15:45:03+01:00
+date: 2017-08-31
 categories: ['other']
 ---
 

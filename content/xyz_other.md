@@ -1,6 +1,6 @@
 ---
 title: "Features"
-date: 2023-08-29T13:45:03+01:00
+date: 2023-08-29
 draft: true
 
 toc: true
@@ -71,6 +71,7 @@ term
 
 [link to how to format figures](https://gohugo.io/content-management/shortcodes/#figure "alt title")
 
+header "##" {#customid}
 [link to header]({{< relref "xyz_other.md#customid" >}})
 
 ***

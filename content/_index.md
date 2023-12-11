@@ -1,6 +1,6 @@
 ---
 title: "Index"
-date: 2022-08-28T16:32:03+01:00
+date: 2022-08-28
 toc: false
 pagination: true
 ---

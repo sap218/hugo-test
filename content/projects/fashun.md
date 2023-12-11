@@ -1,10 +1,14 @@
 ---
 title: "Fashun"
-date: 2022-10-21T14:45:03+01:00
+date: 2022-10-21
 categories: ['r','shiny','sentiment','trends']
 ---
 
 # Fashun: an `R Shiny` app of fashion trends
+
+{{< color-block style="warning" >}}
+This page has not been updated.
+{{< /color-block >}}
 
 Scenario: setting the scene. I have just handed in my PhD thesis and now not sure what to do with my time. What skills can I learn? From my interest in text mining and sentiment analysis, I thought how could I expand upon these areas of interest?
 A project emerged! Fashion trends!

@@ -1,6 +1,6 @@
 ---
 title: "Undergraduate"
-date: 2017-07-30T15:45:03+01:00
+date: 2017-07-30
 categories: ['undergraduate']
 ---
 

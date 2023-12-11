@@ -1,6 +1,6 @@
 ---
 title: "Bioinformatics"
-date: 2017-10-06T15:45:03+01:00
+date: 2017-10-06
 toc: true
 categories: ['python','bioinformatics']
 ---

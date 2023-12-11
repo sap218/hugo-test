@@ -1,10 +1,14 @@
 ---
 title: "OcIMIDo"
-date: 2021-06-18T14:45:03+01:00
+date: 2021-06-18
 categories: ['ontology','nlp','tf-idf','sentiment','patient voice']
 ---
 
 # Ocular Immune Mediated Inflammatory Disease Ontology (OcIMIDo)
+
+{{< color-block style="warning" >}}
+This page has not been updated.
+{{< /color-block >}}
 
 The patient voice is a valuable resource for advancing patient care, however text mining efforts for patient unstructured text is difficult as they contain patient-preferred terms, rather than formal clinical terms. To overcome these text mining efforts, we proposed development of an ontology to address the challenge presented by unstructured text data.
 

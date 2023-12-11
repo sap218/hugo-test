@@ -1,6 +1,6 @@
 ---
 title: "The PhD"
-date: 2023-12-10T14:45:03+01:00
+date: 2023-12-12
 draft: true
 toc: true
 categories: ['phd']

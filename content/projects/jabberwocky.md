@@ -1,10 +1,14 @@
 ---
 title: "Jabberwocky"
-date: 2021-05-11T14:45:03+01:00
+date: 2021-05-11
 categories: ['python','ontology','nlp','tf-idf']
 ---
 
 # Jabberwocky: a toolkit for those nonsensical Ontologies
+
+{{< color-block style="warning" >}}
+This page has not been updated.
+{{< /color-block >}}
 
 Jabberwocky is a Python toolkit designed for ontology manipulation and natural language processing (NLP) [1]. Unstructured text is a valuable resource for research and extracting important sentences is a complicated task - we can extract valuable information using terms, however we can potentially extract more with synonyms, especially synonyms common in that domain of knowledge.
 Ontologies are a useful as they condense a domain of knowledge in a structured manner - for example when looking at an ontology for anatomy, we can see that: hand is part of arm. The information surrrounding "arm" can include a description in addition to synonyms, e.g. "upper limb".

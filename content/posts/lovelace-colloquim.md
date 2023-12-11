@@ -1,6 +1,6 @@
 ---
 title: "Lovelace Colloquim"
-date: 2018-04-06T15:45:03+01:00
+date: 2018-04-06
 categories: ['conference','bioinformatics']
 ---
 

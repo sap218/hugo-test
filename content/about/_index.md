@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2022-08-28T17:32:03+01:00
+date: 2022-08-28
 toc: false
 pagination: true
 ---

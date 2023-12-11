@@ -1,6 +1,6 @@
 ---
 title: "Masters Dissertation"
-date: 2018-10-02T15:45:03+01:00
+date: 2018-10-02
 toc: true
 categories: ['masters','python','bioinformatics']
 ---
