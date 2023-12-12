@@ -29,7 +29,7 @@ In college (aged 16) I decided to study IT as I enjoyed it and realised I was ac
 I originally wanted to be a midwife and undertook child development and health and social care studies alongside IT. I wondered maybe there would be a way I could somehow combine healthcare and IT in my future. 
 
 My IT course at college covered many areas, including: animation, business, and web development.
-I still have the animation project available to watch - [Little Lonely Bird](https://www.youtube.com/watch?v=hrTA1cGky4o&ab_channel=SamPendleton) - the aim was the provoke emotion.
+I still have the animation project available to watch - [Little Lonely Bird](https://www.youtube.com/watch?v=hrTA1cGky4o&ab_channel=SamPendleton "my college animation video") - the aim was the provoke emotion.
 
 I really enjoyed the web modules. I remember our first task was to build a basic website with `HTML` and `CSS` with Adobe Dreamweaver. I still didn't have a computer at home, so I spent my evenings at school to make sure I wouldn't fall behind.
 The web module is where I also met `Javascript` - although the course was not programming-focused, the teacher provided code snippets which I further explored.
@@ -37,7 +37,7 @@ When I got a laptop of my own, I tried to learn `Javascript` in my spare time.
 
 It was at this stage that I had to start thinking about my future: what were my career options? Did I actually want to be a midwife? Did I want to focus on IT? I found IT much easier and it was so fun. I asked my IT teacher for advice… My IT teacher strongly encouraged me to apply for computer science and to choose a university outside my hometown to gain independence and confidence.
 
-I started my [undergraduate degree]({{< relref "undergraduate.md" >}}) at Aberystwyth University, UK, studying Computer Science in 2014. Some coding skills I learnt in my first year included: `Java`, `Arduino C`, and my old friend `Javascript`.
+I started my [undergraduate degree]({{< relref "undergraduate.md" >}} "undergraduate blog") at Aberystwyth University, UK, studying Computer Science in 2014. Some coding skills I learnt in my first year included: `Java`, `Arduino C`, and my old friend `Javascript`.
 The CompSci department runs an activity weekend every year for all first years for various team building activities - without phone signal!
 
 One of my first challenges as an undergrad was the introduction to Linux and the command line interface. It was nothing like I've ever done before. I stepped into this whole new computing world that included other operating systems! I had previously only ever interacted with a Windows OS.
@@ -55,10 +55,10 @@ My third year included a group project and my final dissertation. My final disse
 This is also the year I was introduced to Machine Learning. The machine learning module focused on using the Weka software.
 At the end of my third year, I needed to start thinking about my next steps: I had applied for Data Science.
 
-Over the Summer of 2017 - after undergraduate graduation - I got an student research position in [bioinformatics]({{< relref "bioinformatics-project.md" >}}) and started my `Python` journey.
+Over the Summer of 2017 - after undergraduate graduation - I got an student research position in [bioinformatics]({{< relref "bioinformatics-project.md" >}} "bioinformatics blog") and started my `Python` journey.
 With some help, I finally figured out programming - it all clicked. Despite my prevoius troubles, I finally felt like I understood a programming language with ease! 
 
-Autumn 2017 was the start of my [Masters]({{< relref "masters-dissertation.md" >}}) in Data Science! I explored various topics: statistics; and reintroduced in machine learning and databases. I also learnt new skills: `R` and `MongoDB`.
+Autumn 2017 was the start of my [Masters]({{< relref "masters-dissertation.md" >}} "masters blog") in Data Science! I explored various topics: statistics; and reintroduced in machine learning and databases. I also learnt new skills: `R` and `MongoDB`.
 One of my most memorable university modules was the introduction to `Python`. This was taught via lectures and practicals, both with live coding during the session and the lecturer would get us involved.
 My Masters project used a varity of skills, especially `Python` looking at Acidobacteria and its DNA content - as part of this I made my first `Python` tool and released it on GitHub.
 
@@ -66,8 +66,8 @@ My Masters project used a varity of skills, especially `Python` looking at Acido
 
 One of the major topics I wanted to discuss is my PhD.
 
-Firstly I'd like to discuss PhD applications! I've had a few questions from Masters students over the past year about PhD applications, including essays & interviews.
-(Although I Tweeted some advice - in this blog it'd be best to link over to the [PhD applications]({{< relref "phd-applications.md#tips" >}}) post.)
+Firstly I'd like to discuss PhD applications! I've had a few questions from Masters students over the past year about PhD applications, including essays & interviews
+(**note**: although I Tweeted some advice - to avoid duplication I've decided to link the [PhD applications]({{< relref "phd-applications.md#tips" >}} "PhD applications blog specifically tips") post.)
 
 My PhD is focused on inflammation!
 I am looking into non-traditional biomarkers of inflammation through various methods & data sources: structured and unstructured.
@@ -102,7 +102,7 @@ In relation to my PhD: I aim to look at clinical letters of patients with inflam
 If you want a way to visualise an ontology, I recommend the `WebVOWL` online tool - with interactive features!
 If you are interested in NLP, I recommend `spaCy` as it has a brilliant tutorial/guide - I personally find this tool the best one for `PoS tagging` and such thus far.
 
-My NLP work has proved difficult as many tools that exist for NLP tasks don't allow for easy ontology use and additional wrangling was needed... A first step to overcome this barrier: I developed [Jabberwocky]({{< relref "jabberwocky.md" >}})! An initial plan to plug-in an ontology for associated text mining.
+My NLP work has proved difficult as many tools that exist for NLP tasks don't allow for easy ontology use and additional wrangling was needed... A first step to overcome this barrier: I developed [Jabberwocky]({{< relref "jabberwocky.md" >}} "jabberwocky project")! An initial plan to plug-in an ontology for associated text mining.
 
 Finally, I have also been dipping my toes into the genomics side of bioinformatics via genome-wide association studies (GWAS): looking into genetic variants of a group of people to observe if any variant is associated with a trait; e.g. diabetic patients could have the same variant which is associated with a particular trait of diabetes.
 To be honest, this is not my strongest skill: I don't feel confident in the genetics area yet, but individuals in my lab co-created a script and shared with me!
@@ -122,7 +122,7 @@ Conferences: I'm quite nervous about conferences because I worry that I'll be ak
 
 Mental health! It's very important to take time for yourself and do things you enjoy!
 I've had to take a day or few off in the past year because of the overwhelming stress… No matter if you're in academia or industry, you need to take care of yourself and it's important for businesses/companies to take care of their employees!
-In 2018 [I wrote a blog post about witnessing my partner writing their PhD]({{< relref "outsider-perspective-of-phd.md" >}}) and I had to watch them sad, happy, angry….and now being in that position, I completely understand!
+In 2018 [I wrote a blog post about witnessing my partner writing their PhD]({{< relref "outsider-perspective-of-phd.md" >}} "perspective of PhD blog") and I had to watch them sad, happy, angry….and now being in that position, I completely understand!
 
 Trying to survive this pandemic has been difficult.
 I'm lucky to not have my work affected as it's computational - but I still struggle.
@@ -132,6 +132,6 @@ I'm too nervous to go outside because I see a lot of people not wearing masks an
 ## Friday: funday
 
 Hobbies! Since the pandemic I’ve started a bunch of hobbies: knitting, clay sculpting, and I also code for fun!
-I have a [Colours]({{< relref "colours.md" >}}) project that's been in development for a new years: small, simple tools with the techniques I've learnt throughout the years! 
+I have a [Colours]({{< relref "colours.md" >}} "colours project") project that's been in development for a new years: small, simple tools with the techniques I've learnt throughout the years! 
 
 Music I listen to whilst working: I love soundtracks! Such as Tron Legacy & Interstellar... Hans Zimmer is my go-to!

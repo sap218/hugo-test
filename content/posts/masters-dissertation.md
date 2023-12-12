@@ -7,7 +7,7 @@ categories: ['masters','python','bioinformatics']
 
 # Metagenomics of Acid Soil: a study of Nanopore long-reads and Acidobacteria
 
-Since I enjoyed my [Summer Bioinformatics research position]({{< ref "/bioinformatics-project" >}}) (2017), for my Masters dissertation I hoped to work with [Amanda Clare](https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/afc/) again.
+Since I enjoyed my [Summer Bioinformatics research position]({{< ref "/bioinformatics-project" >}} "bioinformatics blog") (2017), for my Masters dissertation I hoped to work with [Amanda Clare](https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/afc/ "Amanda Clare staff profile") again.
 
 Amanda spoke to the same research group, who had new sequences for me to look at.
 These reads were derived using Nanopore sequencing from Aberystwyth soil.
@@ -19,9 +19,9 @@ It has been observed in mines, soils, and metal-contaminated soils; coincidently
 
 ## Week 2
 Amanda and I discussed looking into a variety of tools for demographics of the data: read count, quality, and time-yield plots.
-We also discussed using [`BLAST`](https://pubmed.ncbi.nlm.nih.gov/2231712/) to look at any present species.
+We also discussed using [`BLAST`](https://pubmed.ncbi.nlm.nih.gov/2231712/ "BLAST") to look at any present species.
 
-I used [`Kaiju`](https://www.nature.com/articles/ncomms11257) and found that Acidobacteria was present with a major subset classified as "unclassified" (not yet placed in a class group/subdivision).
+I used [`Kaiju`](https://www.nature.com/articles/ncomms11257 "Kaiju") and found that Acidobacteria was present with a major subset classified as "unclassified" (not yet placed in a class group/subdivision).
 Furthermore, the `GC` content of the genomes are consistent within their subdivisions.
 For example: in subdivision 3 the `GC` content for those species will have the same `GC` coverage.
 Subdivisions are also dependent on pH, e.g. a pH of 4 means subdivision 1, 2, 3, and 13 will be more likely to appear.
@@ -39,7 +39,7 @@ I downloaded the full and partial genomes of Acidobacteria and found that the `G
 To expand on `acidoseq` it was discussed to include a way `GC` content in Acidobacteria sequences could be observeed for patterns and plotted the subdivisions.
 
 ## Week 5
-We found that the `BLAST` job of the 2 million reads took a month to process only 400,000. Amanda recommended [`Blast2Go`](https://academic.oup.com/bioinformatics/article/21/18/3674/202517) that runs locally and looks at the genes in further detail.
+We found that the `BLAST` job of the 2 million reads took a month to process only 400,000. Amanda recommended [`Blast2Go`](https://academic.oup.com/bioinformatics/article/21/18/3674/202517 "Blast2Go") that runs locally and looks at the genes in further detail.
 
 ## Week 6
 Using `Blast2Go` meant we were able to create a database of Acidobacteria genomes and run a local `BLAST` to find the sequences which identified as Acidobacteria.
@@ -49,7 +49,7 @@ In `acidoseq`, I included the ability to look at `AT` comparing `GC` content (hi
 I added a feature to `acidoseq` that outputs subdivisions of sequences which have that particular `GC` content.
 
 ## Week 8
-Amanda and I discussed assembly: building up the sequences into larger ones. Amanda suggested the tool, [`Miniasm`](https://academic.oup.com/bioinformatics/article/32/14/2103/1742895).
+Amanda and I discussed assembly: building up the sequences into larger ones. Amanda suggested the tool, [`Miniasm`](https://academic.oup.com/bioinformatics/article/32/14/2103/1742895 "Miniasm").
 
 ## Week 9
 The assembly job with `Miniasm` was unsuccessful: due to soil being diverse, the output didn't build up larger sequences. The largest being only 16,000 base-pairs long.
@@ -60,9 +60,9 @@ I started to expand `acidoseq` into a usable tool for the scientific community a
 ## Week 11
 I filtered the data to have at least a quality score of 12 and read-length of 2500: 89 reads.
 We decided to use `Blast2Go` to do a final run and look into the genes.
-The output for Acidobacteria was annotated with the [Gene Ontology](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-S5-S2), however, due to lack of time I didn't have time to explore the results.
+The output for Acidobacteria was annotated with the [Gene Ontology](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-S5-S2 "Gene Ontology"), however, due to lack of time I didn't have time to explore the results.
 
-**`acidoseq`** was packaged up and available on [GitHub](https://github.com/sap218/acidoseq). 
+**`acidoseq`** was packaged up and available on [GitHub](https://github.com/sap218/acidoseq "acidoseq git repository"). 
 
 For the next two weeks the time was mostly focused on writing up my dissertation.
 
@@ -70,12 +70,12 @@ For the next two weeks the time was mostly focused on writing up my dissertation
 During my final meeting, Amanda and I discussed corrections and she provided great feedback. Three days later, I submitted!
 
 ## Wrapping-up
-My Masters is complete and it feels great! The [**dissertation**](https://github.com/sap218/misc/blob/master/postgraduate_dissertation.pdf) is available to read and includes more information!
-A fun read about `acidoseq` is also available via a [pre-print](https://github.com/sap218/misc/blob/master/acidoseq.pdf), which I unfortunately didn't get round to submitting to `bioRxiv`.
+My Masters is complete and it feels great! The [**dissertation**](https://github.com/sap218/misc/blob/master/postgraduate_dissertation.pdf "masters dissertation") is available to read and includes more information!
+A fun read about `acidoseq` is also available via a [pre-print](https://github.com/sap218/misc/blob/master/acidoseq.pdf "acidoseq preprint"), which I unfortunately didn't get round to submitting to `bioRxiv`.
 
-I had such fun with this project that I made a Twitter bot, [`acidobot`](https://twitter.com/acido_bot) that dispenses facts about Acidobacteria once a day! *discontinued*
+I had such fun with this project that I made a Twitter bot, [`acidobot`](https://twitter.com/acido_bot "discontinued acidobot twitter bot") that dispenses facts about Acidobacteria once a day! *discontinued*
 
-**I would like to thank** my supervisor [Amanda](https://twitter.com/afcaber) for the supervision and allowing for a fun project and [Arwyn Edwards](https://twitter.com/arwynedwards) and team for the intellectual engagement and access to data.
+**I would like to thank** my supervisor [Amanda](https://twitter.com/afcaber "Amanda's Twitter") for the supervision and allowing for a fun project and [Arwyn Edwards](https://twitter.com/arwynedwards "Arwyn's Twitter") and team for the intellectual engagement and access to data.
 
 After submission, I only had 4 days until the start of my PhD. 
 

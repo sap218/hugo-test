@@ -44,7 +44,7 @@ There are days I still feel like a burden to people, but I was feeling better af
 The second year definitely followed the "second year blues" and I was a little stuck/lost.
 Although I had multiple projects in the works, I didn't know the trajectory of my PhD.
 
-On my birthday I [presented at my first seminar](https://twitter.com/sap218/status/1225068022483836929).
+On my birthday I [presented at my first seminar](https://twitter.com/sap218/status/1225068022483836929 "first seminar").
 
 And then **COVID**.
 
