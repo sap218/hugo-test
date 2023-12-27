@@ -1,7 +1,6 @@
 ---
 title: "Outsider Perspective of a PhD"
 date: 2018-06-12
-zooming_js: true
 categories: ['phd','bioinformatics','my perspective']
 ---
 
