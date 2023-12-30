@@ -8,7 +8,7 @@ categories: ['other']
 
 {{< color-block style="warning" >}}
 WARNING: read at your own cringe. I made this poem when I was 11 years old (2007) for an English assignment on the War era.
-I was notoriously terrible at poems, but this one was my favourite so I'd like to keep it.
+I was notoriously terrible at poems, but this one was my favourite, so I'd like to keep it.
 {{< /color-block >}}
 
 It's foggy, we're drowsy, with the sound of bangs;

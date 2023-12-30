@@ -15,7 +15,7 @@ The output includes ~2 million sequences: made of `ACGT` basepairs.
 
 ## Week 1
 **Acidobacteria** is a phylum of bacteria belonging in the **bacteria** kingdom. It was only recognised in 2012 despite the most abundant and diverse on Earth soils.
-It has been observed in mines, soils, and metal-contaminated soils; coincidently there are metal mines near Aberystywth that have contaminated the Rheidol streams possibly resulting in metal contaminated soils.
+It has been observed in mines, soils, and metal-contaminated soils; coincidently there are metal mines near Aberystwyth that have contaminated the Rheidol streams possibly resulting in metal contaminated soils.
 
 ## Week 2
 Amanda and I discussed looking into a variety of tools for demographics of the data: read count, quality, and time-yield plots.
@@ -33,10 +33,10 @@ Despite `Kaiju` providing an output with annotated sequence IDs, we can't determ
 This is where the idea of **`acidoseq`** emerged: using a `Kaiju` output file with a list of Acidobacteria taxonomy IDs and merge.
 
 ## Week 4
-As mentioned, literature highlighted that `GC` content in some subvisions were consistent.
+As mentioned, literature highlighted that `GC` content in some subdivisions were consistent.
 I downloaded the full and partial genomes of Acidobacteria and found that the `GC` content were somewhat consistent in all subdivisions.
 
-To expand on `acidoseq` it was discussed to include a way `GC` content in Acidobacteria sequences could be observeed for patterns and plotted the subdivisions.
+To expand on `acidoseq` it was discussed to include a way `GC` content in Acidobacteria sequences could be investigated for patterns and plotting subdivisions.
 
 ## Week 5
 We found that the `BLAST` job of the 2 million reads took a month to process only 400,000. Amanda recommended [`Blast2Go`](https://academic.oup.com/bioinformatics/article/21/18/3674/202517 "Blast2Go") that runs locally and looks at the genes in further detail.
@@ -67,7 +67,7 @@ The output for Acidobacteria was annotated with the [Gene Ontology](https://bmcb
 For the next two weeks the time was mostly focused on writing up my dissertation.
 
 ## Week 12
-During my final meeting, Amanda and I discussed corrections and she provided great feedback. Three days later, I submitted!
+During my final meeting, Amanda and I discussed corrections, and she provided great feedback. Three days later, I submitted!
 
 ## Wrapping-up
 My Masters is complete and it feels great! The [**dissertation**](https://github.com/sap218/misc/blob/master/postgraduate_dissertation.pdf "masters dissertation") is available to read and includes more information!

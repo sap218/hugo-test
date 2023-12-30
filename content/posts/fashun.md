@@ -7,27 +7,27 @@ categories: ['r','shiny','sentiment','trends']
 
 # Fashun: an `R` Shiny app of fashion trends
 
-[**>> Shiny Fashun app**](https://sap218.shinyapps.io/fashun_app/ "R Shiny fashion application")
+I want to start by saying fashion (or *fashun*) is whatever you want it to be - whether that is wearing double denim, or two completely different patterns.
+I enjoy fashion. By "fashion" I mean any outfit - I find clothing an outlet to expressing oneself.
+
+[**>> Fashun app**](https://sap218.shinyapps.io/fashun_app/ "R Shiny fashion application called Fashun")
 
 ## Introduction
 
-I want to start by saying fashion is whatever you want it to be - whether that is wearing double demin, or two completely different patterns.
-
 Setting the scene: I have just handed in my PhD thesis and found that there's extra free time in my evenings.
 I thought, what skills can I learn in my spare time? 
+I enjoy text wrangling, mining, and overall text analysis and so wanted to dive into a text-based project.
 
-I enjoy fashion. By "fashion" I mean any outfit as I find clothing an outlet to expressing oneself.
 Using Google Trends, Twitter API, and `R` Shiny I created a project that looks at fashion trends, correlations, and sentiment analysis.
 
-The Trends analysis includes correlations, seasonal trends, and possible upcoming trends.
-Sentiment analysis of Twitter posts that included particular fashion terms describes and compares various fashion topic sentiments via boxplots and correlation heatmaps.
+1. The Trends analysis includes correlations and seasonal trends of Google data.
+2. Sentiment analysis of Twitter posts that included particular fashion terms compares various fashion topic sentiments.
 
-You can explore data via the interactive [`R` Shiny app I developed](https://sap218.shinyapps.io/fashun_app/ "R Shiny application of fashion trends").
+You can explore data via the interactive `R` Shiny app I developed, [Fashun](https://sap218.shinyapps.io/fashun_app/ "Fashun the R Shiny application of fashion trends").
 
-{{< color-block style="info" >}}
+## Methodology
+
 Other than `R` for the Shiny app, I used `Python` to extract and wrangle the data.
-{{< /color-block >}}
-
 
 ## Google Trends
 
@@ -41,9 +41,9 @@ pytrends.build_payload(values, cat=185, geo="GB-ENG", timeframe=f'2019-01-01 {da
 
 ### Trend occurances
 
-{{< figure src="/fashun/trends/heatmap_full.png" caption="**Figure**: Correlation matrix of trend occurances between terms of interest. Green represents high correlation relationships, white neutral, and purple negative correlation. For example: earrings and necklace are highly correlation, both a fashion accessory." alt="trends correlation matrix" >}}
+{{< figure src="/fashun/trends/heatmap_full.png" caption="**Figure**: Correlation matrix of trend occurrences between terms of interest. Green represents positive correlation, white neutral, and purple negative. For example: earrings and necklace are highly correlated, both a fashion accessory." alt="trends correlation matrix" >}}
 
-We can see some fashion correlations from the above matrx, such as: accessories (earrings and necklace) and seasonal (winter, coat, boots, scarf). Winter itself correlating negatively with Summer.
+We can see some fashion correlations from the above matrix, such as: accessories (earrings and necklace) and seasonal (winter, coat, boots, scarf). Winter itself correlating negatively with Summer.
 Correlation can infer semantics (coat and jacket) and indicate synonyms.
 Some interesting correlations include a positive relationships between earrings and black; and a negative relationship between Summer and bracelet & earrings.
 
@@ -64,9 +64,9 @@ Some interesting correlations include a positive relationships between earrings 
 | jeans & trainers |  |
 
 Below dives in deeper with two terms with correlated highly with others, summer and boots.
-We can see that summer correlates positively with sunglasses, shorts, floral, dress, and beach (x > 0.5). However correlates negatively with winter, boots, coat, scarf, and interestingly earrings (x < -0.5).
+We can see that summer correlates positively with sunglasses, shorts, floral, dress, and beach (x > 0.5). However, correlates negatively with winter, boots, coat, scarf, and interestingly earrings (x < -0.5).
 
-On the other hand, boots correlates with scarf, coat, black, and more (x > 0.5).
+On the other hand, boots correlate with scarf, coat, black, and more (x > 0.5).
 Correlates low with terms that summer correlates high with.
 
 | Summer | Boots |
@@ -74,15 +74,15 @@ Correlates low with terms that summer correlates high with.
 | {{< figure src="/fashun/trends/heatmap_summer.png" width=200 alt="heatmap of summer correlations" >}} | {{< figure src="/fashun/trends/heatmap_boots.png" width=200 alt="heatmap of boots correlations" >}} |
 
 
-### Time
+### Seasonality
 
 {{< figure src="/fashun/trends/time_seasons.png" caption="**Figure**: Longitudinal line plot showing the trend of seasonal terms over the year." alt="seasonal terms longitudinal line plot" >}}
 
-The above plot shows seasonal fashion over time: spring starts to trend in the new year, summer trends over longer intervals, and both autumn and winter start to trend in July (mid Summer). 
+The above plot shows seasonal fashion over time: spring starts to trend in the new year, summer trends over longer intervals, and both autumn and winter start to trend in July (mid-Summer). 
 
 Below are specific terms and their trends both over the year (left) and a weekly average (right).
 Scarf starts to trend in the autumn and peaks in December.
-The foral (pattern) trends around the beginning of Summer and cardigan has no obvious trend with the exception of peaks in June/July.
+The floral (pattern) trends around the beginning of Summer and cardigan have no obvious trend with the exception of peaks in June/July.
 
 | Seasonal | Weekly |
 | ------------- | ------------- |
@@ -91,7 +91,7 @@ The foral (pattern) trends around the beginning of Summer and cardigan has no ob
 | {{< figure src="/fashun/trends/time_seasons_cardigan_full.png" width=400 alt="yearly trend cardigan" >}} | {{< figure src="/fashun/trends/time_seasons_cardigan_weekly.png" width=400 alt="weekly trend cardigan" >}} |
 
 Below represents a visualisation of "upcoming" fashion, specifically within the Summer season, and shows trends from January 2022 to June 2022.
-As expected Summer starts to become more popular as the year progresses toward Summer and a somewhat foundation to compare "Pink". 
+As expected, Summer starts to become more popular as the year progresses toward Summer and a somewhat foundation to compare "Pink". 
 Pink, which was fashionable in Summer 2022, steadily increased over time.
 
 | Upcoming Summer | Upcoming Pink |
@@ -108,13 +108,11 @@ tweet_search = "lang:en -filter:links -filter:replies -filter:retweets"
 ```
 I used `VADER` for sentiment analysis as it is a rule-based method pre-trained with tweets.
 
-### Analysis
-
 {{< figure src="/fashun/sentiment/boxplot_sentiment.png" caption="**Figure**: Boxplots of sentiment scores across all fashion topics." alt="sentiment scores boxplots" >}}
 
 Looking into categories: in accessories earrings and ring have a lower average sentiment with ring being less than 0 (most neutral).
 In make-up, mascara has the lowest average sentiment yet remains higher than 0.
-In patterns: stripes has the lowest sentiment whereas gingham has the highest average sentiment.
+In patterns: stripes have the lowest sentiment while gingham has the highest average sentiment.
 Finally, in shoes we see that both heels and boots have a lower average sentiment as footwear - which we know can be uncomfortable.
 
 | Accessories | Make-up |
@@ -135,5 +133,5 @@ For example, with the Twitter API text output, I would need to properly investig
 Although, future work on this can be difficult: as of 2023, Twitter is now X and so I don't believe I can replicate the sentiment analysis.
 
 {{< color-block style="info" >}}
-Please do have a little explore of the Fashun app and do some investigations.
+Please do have a little explore of the Fashun app and your own investigations.
 {{< /color-block >}}

@@ -7,7 +7,7 @@ categories: ['ontology','phd']
 # Weaving webs for smarter science
 
 {{< color-block style="info" >}}
-This was submitted as a piece for the 2019 Max Perutz Science Writing Award.
+This piece was submitted for the 2019 Max Perutz Science Writing Award.
 A competition for MRC students to write about their science to the public.
 It is aimed for students to communicate about their PhD in a way that a wider audience, such as non-scientific individuals, can understand - to help us build our communication skills.
 {{< /color-block >}}

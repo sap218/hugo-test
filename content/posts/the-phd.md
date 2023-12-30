@@ -7,6 +7,11 @@ categories: ['phd','my perspective','ontology','machine learning','patient voice
 
 # Becoming a Doctor in Clinical Informatics
 
+{{< color-block style="info" >}}
+The information in this post is my personal PhD journey. I aim to inform and share my PhD (experience and research) with you – the reader.
+{{< /color-block >}}
+
+
 ## Year 1
 
 > You don't have as much experience as I would have thought…
@@ -15,7 +20,7 @@ This was one of the first things said to me...during my first week.
 Imposter syndrome was planted and settling in for the long haul.
 
 For the first month there was no desk for me and so I sat alone in the quiet working room. 
-I felt quite isolated - I don't particularly blame anyone - it was just an unfortunate start.
+I felt quite isolated - this was just an unfortunate start to the PhD.
 But I *tried* to push forward: I read papers, followed tutorials ([infamous Pizza for ontologies](https://protegewiki.stanford.edu/wiki/Protege4Pizzas10Minutes "Protege tutorial for ontologies")), and playing around with a dataset.
 
 I wanted to prove that person wrong. I spent the first 9 months trying my best to impress.
@@ -24,9 +29,8 @@ I would read about a particular method as they instructed, but then they'd say I
 Yet, when I tried presenting results, I would be questioned about every little detail (which I would've known from further reading) and if I didn't know the smallest detail I would be berated and told I didn't know enough.
 
 Now reflecting from experience, I would like to say that the above should not have happened.
-I don't want to name the person - although I believe anyone from that research group might know who I'm talking about - I want to write this to reflect.
-I don't believe it's fair for that person to say or act like that around a new student.
-Sometimes I couldn't get out of bed and refused to go to the office.
+I don't believe it is fair to act like that around a new student - I avoided working in the office because of this.
+And I don't want to share negativity that will push people away from a PhD, but I appreciate that I can use my platform to reflect on my time over the years.
 
 My first-year progress review was approaching, so I met with my supervisor about the work I've been doing for the past year, and one particular project changed things...
 
@@ -215,7 +219,7 @@ They eventually winded down the conversations and told me to wait for a few minu
 I was recalled. Hearing that I passed made the biggest lump in my throat.
 They congratulated me and we all ended the call. 12pm. 
 I burst into tears.
-I genuinely think my life work finally triumphed. I made it. I was a Dr in Philosophy.
+I genuinely do believe that my life's work had triumphed. I made it. I was a Dr in Philosophy.
 
 I went to the caravan door, where my partner was waiting for me. I was still crying - a complete mess.
 He thought it went bad as he saw the tears and all I could get out, "it...went...so...good".

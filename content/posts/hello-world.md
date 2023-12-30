@@ -12,13 +12,13 @@ In 2021, midway through my PhD, I progressed onto GitHub pages with `Bootstrap` 
 Now in 2023, I’ve decided to try [**`Hugo`**](https://gohugo.io/ "Hugo website"). 
 
 A few months ago, with COVID, I decided to revamp the site and intended to go with the markdown-file route.
-Whilst ill with the decision to improve the blog, I had some time off work so my 5-day isolation weekend turned *somewhat* productive.
+Whilst ill with the decision to improve the blog, I had some time off work, so my 5-day isolation weekend turned *somewhat* productive.
 
 With the exception of some commands, `Hugo` uses markdowns allowing for many automated features.
 My goal was this to be **simple**. I didn't want to wrangle with `HTML` or design.
 To start, I spent hours looking at the [theme list](https://themes.gohugo.io/ "full list of Hugo themes") - choosing tags/categories that were most important to me.
 
-The design was a toughie. Some explored themes were great, others relied on dependencies, and in the end, I was looking for something quite minimalistic.
+The design was a toughie. Many themes I explored were great, others relied on dependencies, and in the end, I was looking for something quite minimalistic.
 I finalised on [**`Monochrome`**](https://github.com/kaiiiz/hugo-theme-monochrome.git "monochrome git repository") as I liked the minimalistic design and responsiveness.
 Though a top contender was [`PaperMod`](https://github.com/adityatelange/hugo-PaperMod "papermod git repository"). 
 
@@ -47,6 +47,6 @@ My graduation was in July, my family visited Birmingham for the first time and a
 {{< figure src="/academia/graduation.jpg" width="200" alt="me with the fancy PhD cap and gown" >}}
 
 Even bigger news is that I've officially moved to Oxford! 
-Throughout 2023 I has been living in a caravan on a Farm in Swansea, saving, to make the big leap and move closer to work.
+Throughout 2023 I have been living in a caravan on a Farm in Swansea, saving, to make the big leap and move closer to work.
 I’ve been at my current job since 2022, Data wrangler/scientist at the Big Data Institute, the University of Oxford.
 **Stay tuned for *hopefully* more content!**

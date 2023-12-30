@@ -9,7 +9,7 @@ categories: ['undergraduate']
 I decided to back-date this post as it covers my Undergraduate degree.
 As mentioned in the [Version 3 blog]({{< ref "/hello-world#where" >}} "introductory blog"), I am not the best of writing-up some things.
 
-I started my Undergraduate degree at Aberystwyth University in 2014. Initially I hadn't planned to leave Liverpool but I was rightfully persuaded by an IT teacher, who had sparked my interest in computers.
+I started my Undergraduate degree at Aberystwyth University in 2014. Initially I hadn't planned to leave Liverpool, but I was rightfully persuaded by an IT teacher, who had sparked my interest in computers.
 
 Initially I applied to study Computer Science, but swapped to Business IT in my second year as I couldn't get a grip on `Java`.
 Although I chose some elective modules in different subject areas, I kept some core computer science fundamentals, e.g. Machine Learning.

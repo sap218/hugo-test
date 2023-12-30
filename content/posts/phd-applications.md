@@ -7,7 +7,7 @@ categories: ['phd','my perspective']
 
 # My experience of the PhD application process
 
-During my time as a mentor for undergrduates and teaching assistant for Masters students, I've had questions about the PhD application process.
+During my time as a mentor for undergraduates and teaching assistant for Masters students, I have had questions about the PhD application process.
 Now as a PhD student with a bunch of curated responses, the following post is the advice I gave.
 
 The following advice could be helpful, if not: that's OK. 
@@ -34,7 +34,7 @@ Then discussed the skills I have most specific to the PhD, such as ML, statistic
 I also mentioned both past and future skills: those which I would like more knowledge in and discussed previous research projects: handling biological data (sequences) and that I independently developed my own `Python` package to answer the main research question for my dissertation.
 
 It does depend on the type of PhD programme.
-If you are a biologist who is applying for a PhD in biology but requires computational experience: you still have a great shot and you can talk about your willingness to learn computational skills to answer the biologial question.
+If you are a biologist who is applying for a PhD in biology but requires computational experience: you still have a great shot, and you can talk about your willingness to learn computational skills to answer the biological question.
 Don't forget about the other interpersonal skills: enthusiastic, and independent, communication/presenting.
 Mention all those you would best describe yourself!
 
@@ -47,13 +47,13 @@ It's quite common to present something, usually the prompt is a recent project.
 My interview required that I discuss "my best piece of research", so I talked about my [Masters (MSc) dissertation]({{< relref "masters-dissertation.md" >}} "masters blog").
 
 After introductions, I led straight into a presentation. Which afterwards, the panel asked questions about.
-After the presentation and presentation questions, the question was directed about myself.
+After the presentation and presentation questions, the question was directed about me.
 My supervisor was quiet for most of the interview and asked the technical questions.
 
 ### The presentation
 
 {{< color-block style="info" >}}
-This section may not be revelant as some applicants aren't required to present anything.
+This section may not be relevant as some applicants aren't required to present anything.
 {{< /color-block >}}
 
 As mentioned, my presentation was my MSc dissertation - I enjoyed and learnt a lot and confident to present that work.
@@ -75,10 +75,10 @@ This is an open question with a lot of potential, though I do understand the str
 
 ### Highlighting skills in the presentation
 
-For those who have to write an essay for the application, skills should be mentioned here - but they can also be easily be mentioned in the presentation. 
+For those who have to write an essay for the application, skills should be mentioned here - but they can also easily be mentioned in the presentation. 
 It's all about buzz words. If you're presenting a recent coding project, you can throw in the programming language or how you uploaded code to GitHub.
 
-Less techincal skills are worth mentioning: presentation/communication skills, a keen learner/independent student, or enthusiastic.
+Less technical skills are worth mentioning: presentation/communication skills, a keen learner/independent student, or enthusiastic.
 The panel might ask skill-related questions at the end - this is a great opportunity to highlight more! In a personal experience, my supervisor asked about how I'd handle a dataset and asking me to expand in terms of machine learning.
 
 ### Interview questions
@@ -98,15 +98,15 @@ An important thing to remember here: it's OK to say you don't know a particular 
 
 One question I remember clearly from my supervisor, "what would you do if I gave you a dataset of patients with heart disease?". Knowing this project was ML-based, I decided to try and go for that angle, despite the vagueness.
 I mentioned data cleaning is the first step and then said either a supervised or unsupervised method based on the research question.
-My supervisor seemed to like my response, but wanted to know more and asked what for some specifics. I vaguely remember saying something similar: "Using `Python` I would do unsupervised clustering to look at patterns in the data" (showing skills).
+My supervisor seemed to like my response but wanted to know more and asked what for some specifics. I vaguely remember saying something similar: "Using `Python` I would do unsupervised clustering to look at patterns in the data" (showing skills).
 
 #### Trick questions
 
 This can be quite subjective - my opinion on a tricky question can differ from someone else's.
 Although I was prepared for my interview (research topic and presentation) and did some background research into the supervisor - I didn't read any of their papers!
 
-A question I recieved, "out of all your supervisors' papers, which one did you like the most?". This one personally I thought was a "trick" question (someone I spoke to afterward disgareed and thought it should be expected).
-But personally this question caught me off guard! I knew my supervisor's research areas but didn't read a paper and so I was completely honest and said something like, "I am really sorry but I haven't read any of their papers. But I have heard of *supervisor* and people have spoken fondly of them". I think they appreciated the honesty, and my supervisor seemed happy.
+A question I received, "out of all your supervisors' papers, which one did you like the most?". This one personally I thought was a "trick" question (someone I spoke to afterward disagreed and said this was a question to be expected).
+But personally, this question caught me off guard! I knew my supervisor's research areas but didn't read a paper and so I was completely honest and said something like, "I am really sorry but I haven't read any of their papers. But I have heard of *supervisor* and people have spoken fondly of them". I think they appreciated the honesty, and my supervisor seemed happy.
 
 ## Final tips/comments {#tips}
 
@@ -117,5 +117,5 @@ But personally this question caught me off guard! I knew my supervisor's researc
 
 ### Good luck!
 These are all my opinions and experiences - everyone's is different - and each panel will ask different things.
-The PhD is a learning and development journey and the supervisor should be passing on their knowledge. 
+The PhD is a learning and development journey, and the supervisor should be passing on their knowledge. 
 Good luck to anyone reading this who is preparing for a PhD application/interview.
