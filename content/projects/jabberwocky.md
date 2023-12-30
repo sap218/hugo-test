@@ -1,20 +1,30 @@
 ---
 title: "Jabberwocky"
 date: 2021-05-11
-categories: ['python','ontology','nlp','tf-idf']
+categories: ['python','ontology','nlp','tf-idf','project']
 ---
 
-# Jabberwocky: a toolkit for those nonsensical Ontologies
+# Jabberwocky: a `Python` toolkit for NLP tasks and manipulation of those nonsensical Ontologies
 
-{{< color-block style="warning" >}}
-This page has not been updated.
-{{< /color-block >}}
+Unstructured text is a valuable resource for research, yet text mining is a complicated task.
+Text mining with key terms can be limited and potentially enhanced with the knowledge of synonyms.
+Especially synonyms in that domain.
 
-Jabberwocky is a Python toolkit designed for ontology manipulation and natural language processing (NLP) [1]. Unstructured text is a valuable resource for research and extracting important sentences is a complicated task - we can extract valuable information using terms, however we can potentially extract more with synonyms, especially synonyms common in that domain of knowledge.
-Ontologies are a useful as they condense a domain of knowledge in a structured manner - for example when looking at an ontology for anatomy, we can see that: hand is part of arm. The information surrrounding "arm" can include a description in addition to synonyms, e.g. "upper limb".
-Current existing tools, such as spaCy or NLTK, are brilliant in the domain for NLP, however don't include an ontology plug-in aspect.
+Ontologies are useful as they condense a domain of knowledge in a structured manner.
+Concepts in an ontology have a label and possibly synonyms, yet in cases there lacks this vital information.
+Ontologies have proven useful in text mining tasks, yet there lie gaps in the NLP community for the easy manipulation of ontologies.
 
-Jabberwocky allows a user to extract synonyms from an ontology giving words of interest, e.g. "arm", "foot", and "head". Jabberwocky uses spaCy PhraseMatcher to curate sentences from a text document using these words and synonyms of interest. Using the methods from Braithwaite et al. (2020), Jabberwocky offers a tf-idf statistical analysis for users to view terms of importance [2]. Viewing these high scoring important terms, you may notice synoynms which weren't previously in the ontology or which you didn't consider, you can update the ontology by adding new synonyms.
-With these new synonyms, you can re-run Jabberwocky to curate more sentences using these words and updated synonyms of interest.
+**Jabberwocky** allows a user to extract synonyms from an ontology giving keywords [concepts] of interest. 
+Jabberwocky uses [spaCy](https://spacy.io/ "spacy website") `PhraseMatcher` to curate text from a corpus using these keywords and corresponding synonyms.
 
-Jabberwocky v1.0 was released June 2020, however v2.0 was released May 2021. Version 2 update includes spaCy PhraseMatcher for sentence extraction and the ability to plot the tf-idf top-30 terms.
+Using the methods from Pendleton et al. (2021)[^ocimido], Jabberwocky offers TF-IDF (statistical method) for users to view terms of importance - which could prove useful for the ontology and future text mining.
+Finally, Jabberwocky allows a user to update their ontology via adding new synonyms (possibly extracted from the TF-IDF).
+With these new synonyms, you can re-run Jabberwocky to curate more from the corpus.
+
+| GitHub | Manuscript | Guide | Packaged |
+| -------- | ------- | ------- | ------- |
+| [{{< figure src="/links/github.png" width=25 alt="github" >}}](https://github.com/sap218/jabberwocky "github") | [{{< figure src="/links/paper.png" width=30 alt="manuscript" >}}](https://joss.theoj.org/papers/10.21105/joss.02168 "manuscript") | [{{< figure src="/links/guide.png" width=25 alt="guide" >}}](https://sap218.github.io/jabberwocky/ "guide") | [{{< figure src="/links/link.png" width=30 alt="zenodo" >}}](https://zenodo.org/records/4747764 "zenodo") |
+
+## References
+
+[^ocimido]: Pendleton, S. C., Slater, L. T., Karwath, A., Gilbert, R. M., Davis, N., Pesudovs, K., ... & Braithwaite, T. (2021). Development and application of the ocular immune-mediated inflammatory diseases ontology enhanced with synonyms from online patient support forum conversation. Computers in biology and medicine, 135, 104542.
