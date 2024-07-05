@@ -7,7 +7,7 @@ categories: ['undergraduate']
 # Highlights during my Undergraduate degree
 
 I decided to back-date this post as it covers my Undergraduate degree.
-As mentioned in the [Version 3 blog]({{< ref "/hello-world#where" >}} "introductory blog"), I am not the best of writing-up some things.
+As mentioned in the [Version 3 blog]({{< ref "hello-world#where" >}} "introductory blog"), I am not the best of writing-up some things.
 
 I started my Undergraduate degree at Aberystwyth University in 2014. Initially I hadn't planned to leave Liverpool, but I was rightfully persuaded by an IT teacher, who had sparked my interest in computers.
 
@@ -41,4 +41,4 @@ I graduated in 2017 and went onto a Data Science Masters.
 + To celebrate my graduation I made a lego minifigure of myself
 + Participated in the 2017 [BCS Lovelace Colloqium](https://github.com/sap218/misc/blob/master/lovelace_poster_2017.pdf "BCS Lovalace Colloqium 2017 poster")
 + "Assisted" a PhD student with their [PCR](https://twitter.com/sap218/status/910070653419704320 "my tweet with a video of lab work") lab work 
-+ My first research project in [Bioinformatics]({{< ref "/bioinformatics-project" >}} "bioinformatics blog")
++ My first research project in [Bioinformatics]({{< ref "bioinformatics-project" >}} "bioinformatics blog")

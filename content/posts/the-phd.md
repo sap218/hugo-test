@@ -79,7 +79,7 @@ Tense conversations were had but all to a good purpose: I was becoming a better 
 ### Writing-up
 
 Writing-up the PhD was quite the experience.
-I had heard stories from others and I previously watched my [partner complete their PhD]({{< ref "/outsider-perspective-of-phd" >}} "outside perspective of PhD") and somewhat knew what was coming.
+I had heard stories from others and I previously watched my [partner complete their PhD]({{< ref "outsider-perspective-of-phd" >}} "outside perspective of PhD") and somewhat knew what was coming.
 However I enjoy writing.
 
 This experience was fun for me: I collected all my research, methods, results into one large document.

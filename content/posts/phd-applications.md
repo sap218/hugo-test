@@ -44,7 +44,7 @@ I actually remember my PhD interview very well! I walked in, introduced myself, 
 There was my supervisor, someone from HR, and staff who were a part of my funding body - however some people only a supervisor and a postdoc present.
 
 It's quite common to present something, usually the prompt is a recent project.
-My interview required that I discuss "my best piece of research", so I talked about my [Masters (MSc) dissertation]({{< relref "masters-dissertation.md" >}} "masters blog").
+My interview required that I discuss "my best piece of research", so I talked about my [Masters (MSc) dissertation]({{< ref "masters-dissertation" >}} "masters blog").
 
 After introductions, I led straight into a presentation. Which afterwards, the panel asked questions about.
 After the presentation and presentation questions, the question was directed about me.

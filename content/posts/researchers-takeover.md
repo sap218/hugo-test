@@ -37,7 +37,7 @@ When I got a laptop of my own, I tried to learn `Javascript` in my spare time.
 
 It was at this stage that I had to start thinking about my future: what were my career options? Did I actually want to be a midwife? Did I want to focus on IT? I found IT much easier, and it was so fun. I asked my IT teacher for advice… My IT teacher strongly encouraged me to apply for computer science and to choose a university outside my hometown to gain independence and confidence.
 
-I started my [undergraduate degree]({{< relref "undergraduate.md" >}} "undergraduate blog") at Aberystwyth University, UK, studying Computer Science in 2014. Some coding skills I learnt in my first year included: `Java`, `Arduino C`, and my old friend `Javascript`.
+I started my [undergraduate degree]({{< ref "undergraduate" >}} "undergraduate blog") at Aberystwyth University, UK, studying Computer Science in 2014. Some coding skills I learnt in my first year included: `Java`, `Arduino C`, and my old friend `Javascript`.
 The CompSci department runs an activity weekend every year for all first years for various team building activities - without phone signal!
 
 One of my first challenges as an undergrad was the introduction to Linux and the command line interface. It was nothing like I've ever done before. I stepped into this whole new computing world that included other operating systems! I had previously only ever interacted with a Windows OS.
@@ -58,7 +58,7 @@ At the end of my third year, I needed to start thinking about my next steps: I h
 Over the Summer of 2017 - after undergraduate graduation - I got an student research position in [bioinformatics]({{< relref "bioinformatics-project.md" >}} "bioinformatics blog") and started my `Python` journey.
 With some help, I finally figured out programming - it all clicked. Despite my prevoius troubles, I finally felt like I understood a programming language with ease! 
 
-Autumn 2017 was the start of my [Masters]({{< relref "masters-dissertation.md" >}} "masters blog") in Data Science! I explored various topics: statistics; and reintroduced in machine learning and databases. I also learnt new skills: `R` and `MongoDB`.
+Autumn 2017 was the start of my [Masters]({{< ref "masters-dissertation" >}} "masters blog") in Data Science! I explored various topics: statistics; and reintroduced in machine learning and databases. I also learnt new skills: `R` and `MongoDB`.
 One of my most memorable university modules was the introduction to `Python`. This was taught via lectures and practicals, both with live coding during the session and the lecturer would get us involved.
 My Masters project used a variety of skills, especially `Python` looking at Acidobacteria and its DNA content - as part of this I made my first `Python` tool and released it on GitHub.
 
@@ -67,7 +67,7 @@ My Masters project used a variety of skills, especially `Python` looking at Acid
 One of the major topics I wanted to discuss is my PhD.
 
 Firstly, I'd like to discuss PhD applications! I've had a few questions from Masters students over the past year about PhD applications, including essays & interviews
-(**note**: although I Tweeted some advice - to avoid duplication I've decided to link the [PhD applications]({{< relref "phd-applications.md#tips" >}} "PhD applications blog specifically tips") post.)
+(**note**: although I Tweeted some advice - to avoid duplication I've decided to link the [PhD applications]({{< ref "phd-applications.md#tips" >}} "PhD applications blog specifically tips") post.)
 
 My PhD is focused on inflammation!
 I am looking into non-traditional biomarkers of inflammation through various methods & data sources: structured and unstructured.
@@ -102,7 +102,7 @@ In relation to my PhD: I aim to look at clinical letters of patients with inflam
 If you want a way to visualise an ontology, I recommend the `WebVOWL` online tool - with interactive features!
 If you are interested in NLP, I recommend `spaCy` as it has a brilliant tutorial/guide - I personally find this tool the best one for `PoS tagging` and such thus far.
 
-My NLP work has proved difficult as many tools that exist for NLP tasks don't allow for easy ontology use and additional wrangling was needed... A first step to overcome this barrier: I developed [Jabberwocky]({{< relref "jabberwocky.md" >}} "jabberwocky project")! An initial plan to plug-in an ontology for associated text mining.
+My NLP work has proved difficult as many tools that exist for NLP tasks don't allow for easy ontology use and additional wrangling was needed... A first step to overcome this barrier: I developed [Jabberwocky]({{< ref "jabberwocky" >}} "jabberwocky project")! An initial plan to plug-in an ontology for associated text mining.
 
 Finally, I have also been dipping my toes into the genomics side of bioinformatics via genome-wide association studies (GWAS): looking into genetic variants of a group of people to observe if any variant is associated with a trait; e.g. diabetic patients could have the same variant which is associated with a particular trait of diabetes.
 To be honest, this is not my strongest skill: I don't feel confident in the genetics area yet, but individuals in my lab co-created a script and shared with me!
