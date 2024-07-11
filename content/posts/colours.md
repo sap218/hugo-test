@@ -9,6 +9,9 @@ categories: ['python','command line','nlp','sentiment']
 
 All fun little `Python` projects via command line interface.
 
+{{< color-block style="warning" >}}
+As of 2019 these projects are not supported!
+{{< /color-block >}}
 
 ## `indigo`
 

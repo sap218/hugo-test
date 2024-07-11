@@ -7,8 +7,8 @@ categories: ['other']
 # Banging Playground
 
 {{< color-block style="warning" >}}
-WARNING: read at your own cringe. I made this poem when I was 11 years old (2007) for an English assignment on the War era.
-I was notoriously terrible at poems, but this one was my favourite, so I'd like to keep it.
+WARNING: read at your own cringe. I made this poem when I was 11 years old (2007) for English class.
+I was notoriously terrible at poems.
 {{< /color-block >}}
 
 It's foggy, we're drowsy, with the sound of bangs;
@@ -46,3 +46,7 @@ It's no fun, this is the devil's playground.
 
 It's been years since that day,
 I still cry at night, calling for mayday.
+
+{{< color-block style="error" >}}
+I've edited this poem a little since to make it grammar good.
+{{< /color-block >}}

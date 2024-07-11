@@ -70,15 +70,13 @@ For the next two weeks the time was mostly focused on writing up my dissertation
 During my final meeting, Amanda and I discussed corrections, and she provided great feedback. Three days later, I submitted!
 
 ## Wrapping-up
-My Masters is complete and it feels great! The [**dissertation**](https://github.com/sap218/misc/blob/master/postgraduate_dissertation.pdf "masters dissertation") is available to read and includes more information!
+My Masters is complete and it feels great! The [dissertation](https://github.com/sap218/misc/blob/master/postgraduate_dissertation.pdf "masters dissertation") is available to read and includes more information!
 A fun read about `acidoseq` is also available via a [pre-print](https://github.com/sap218/misc/blob/master/acidoseq.pdf "acidoseq preprint"), which I unfortunately didn't get round to submitting to `bioRxiv`.
 
-I had such fun with this project that I made a Twitter bot, [`acidobot`](https://twitter.com/acido_bot "discontinued acidobot twitter bot") that dispenses facts about Acidobacteria once a day! *discontinued*
+I had such fun with this project that I made a Twitter bot, [`acidobot`](https://twitter.com/acido_bot "discontinued acidobot twitter bot") that dispenses facts about Acidobacteria once a day! ***discontinued***
 
 **I would like to thank** my supervisor [Amanda](https://twitter.com/afcaber "Amanda's Twitter") for the supervision and allowing for a fun project and [Arwyn Edwards](https://twitter.com/arwynedwards "Arwyn's Twitter") and team for the intellectual engagement and access to data.
 
-After submission, I only had 4 days until the start of my PhD. 
-
-**Update**: almost a year after submitting I had my Masters graduation!
+After submission, I only had 4 days until the start of my PhD. Then almost a year after submitting...I had my Masters graduation!
 
 {{< figure src="/aberystwyth/msc_graduation.jpg" width=400 alt="me at my masters graduation" >}}

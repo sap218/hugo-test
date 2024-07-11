@@ -31,16 +31,16 @@ These were times I was deep in work alongside Sam, but Sam had lots of other pos
 Some notable favourites (chronological order):
 + WHO IS THIS GUY *sad* - Sam thought his work was scooped and has a few sad weeks.
 + WINE TIME *happy* - Sam started to enjoy wine during his evenings of deep PhD work.
-+ fuck you latex what the fucking fuck, I fucking hate computers *not-so-happy* - formatting a thesis is quite the challenge.
++ fuck you `LaTeX` what the fucking fuck, I fucking hate computers *not-so-happy* - formatting a thesis is quite the challenge.
 + pls no more lit review *sad* - reading and writing-up a lot of papers can be exhausting.
-+ THIS IS MY BABY *very happy* - Sam was making brilliant progress and was really happy with the thesis progress.
++ THIS IS MY BABY *very happy* - Sam was making brilliant progress and was really happy with the current thesis state.
 + how do bees do this? *happy* - Sam moved from wine onto mead.
 + NEXT QUESTION *positive* - prepared a mock Viva for Sam and he was in good spirits.
 
 The stress of writing seemed to change him (not always a bad thing). Sam didn't seem himself some days: he would wake up only to write until late hours.
 Even though funny things were said, one major change was sleep talking.
 
-Sam, when he eventually would sleep, I'd notice would seem to make more noises in his sleep and there was sleep talking (as reflected in the Figure above).
+Sam, when he eventually would sleep, would sleep talk more (as reflected in the Figure as some grey/neutral).
 Some examples of things he said: "the sequences", "bad men at the bank", and "it's real science" (the last was shouted loudly).
 All things I would say are related to his PhD: sequences in Bioinformatics, bank may relate to the 4th year of no pay (abeyance), and "real science" perhaps defending his work via peer reviews.
 

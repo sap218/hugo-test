@@ -6,39 +6,37 @@ categories: ['undergraduate']
 
 # Highlights during my Undergraduate degree
 
-I decided to back-date this post as it covers my Undergraduate degree.
-As mentioned in the [Version 3 blog]({{< ref "hello-world#where" >}} "introductory blog"), I am not the best of writing-up some things.
+{{< color-block style="info" >}}
+Although this post was written in 2023, it is backdated to 2017.
+{{< /color-block >}}
 
-I started my Undergraduate degree at Aberystwyth University in 2014. Initially I hadn't planned to leave Liverpool, but I was rightfully persuaded by an IT teacher, who had sparked my interest in computers.
+I started my Undergraduate degree at [Aberystwyth University](https://www.aber.ac.uk/en/cs/ "Aberystwyth University Computer Science site") in 2014.
+Originally, I didn't plan on leaving Liverpool, but I was - thankfully - persuaded by an IT teacher, who sparked my interest in computers.
 
-Initially I applied to study Computer Science, but swapped to Business IT in my second year as I couldn't get a grip on `Java`.
-Although I chose some elective modules in different subject areas, I kept some core computer science fundamentals, e.g. Machine Learning.
+It's been a few years but I fondly remember enjoying Web programming, Machine Learning, and Arduino.
+I struggled most with Java.
 
-During my undergrad degree, I've explored various programming languages and written many words/lines of code.
-Both word count and lines of code peaked in my third and final year with web-based languages being my most used.
-As mentioned, I couldn't figure out `Java`, which can be seen in the left plot as I only wrote a total of 31 lines...
+During the degree, I explored various programming languages and so written many lines of code (and words).
+The Figure below visualises this: both wordcount and lines of code peaked in my third and final year.
+My most used language were web-based and - as mentioned - I couldn't figure out Java and so this was my least used language: I wrote a total of 31 lines...
 
-{{< figure src="/aberystwyth/ug_summary.png" caption="**Figure**: Barplots showing my undergraduate summaries including word count and lines of code by year." alt="barplots showing my undergraduate summaries including word count and lines of code by year" >}}
+{{< figure src="/aberystwyth/ug_summary.png" caption="**Figure**: Barplots showing the most used languages, wordcount, and lines of code summaries by year. Note: plots may not be 100% correct." alt="barplots showing my undergraduate summaries" >}}
 
-**Note**: I would like it to be known that the above may not be 100% correct.
+### Web:
 
-In the third and final year, we had the dissertation project to complete: the development of a small website with a back-end database.
-I spoke to my aunt, who at the time started a small business in cake baking, and so I started production.
+My dissertation was a web project: students were to develop a site with a back-end database.
+I spoke to my aunt and used their small cake business as inspiration.
+See the Figure below for a screenshot of the final product.
 
-A lot of fellow students used `Bootstrap` for the front-end, however I wanted to make this all from scratch.
-I designed elements with `CSS` including a gallery of cakes, a mini-blog, and an order form - having back-end database elements.
+{{< figure src="/aberystwyth/littlecakebox.PNG" width=600 caption="**Figure**: Screenshot of my Undergraduate Dissertation website." alt="screenshot of undergraduate dissertation website" >}}
 
-In my feedback, one particular quote will stick with me forever:
+A lot of fellow students used Bootstrap for the front-end, however I wanted challenge myself and make this from scratch with `CSS`.
+In all, the website consisted of: a gallery of cakes, a mini-blog, and an order form.
+One piece of feedback, which I am very proud of:
 > one of the best websites made from scratch
 
-I've made my [**undergraduate dissertation final report**](https://github.com/sap218/misc/blob/master/undergraduate_dissertation.pdf "undergraduate dissertation") available for anyone who would like to read.
-I graduated in 2017 and went onto a Data Science Masters.
+I graduated in 2017 and that Summer I started my research journey in a small [Bioinformatics]({{< ref "bioinformatics-project" >}} "bioinformatics blog") project. 
+Afterward, I went on to study a Masters degree in Data Science.
+My [undergraduate dissertation](https://github.com/sap218/misc/blob/master/undergraduate_dissertation.pdf "undergraduate dissertation") is available to read.
 
-{{< figure src="/aberystwyth/ug_graduation.jpg" width=500 alt="me at my undergraduate graduation" >}}
-
-**Final fun facts:**
-+ I was elected President of the Computer Science Society, `AberCompSoc`
-+ To celebrate my graduation I made a lego minifigure of myself
-+ Participated in the 2017 [BCS Lovelace Colloqium](https://github.com/sap218/misc/blob/master/lovelace_poster_2017.pdf "BCS Lovalace Colloqium 2017 poster")
-+ "Assisted" a PhD student with their [PCR](https://twitter.com/sap218/status/910070653419704320 "my tweet with a video of lab work") lab work 
-+ My first research project in [Bioinformatics]({{< ref "bioinformatics-project" >}} "bioinformatics blog")
+{{< figure src="/aberystwyth/ug_graduation.jpg" width=450 alt="me at my undergraduate graduation" >}}

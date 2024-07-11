@@ -7,11 +7,10 @@ categories: ['python','bioinformatics']
 
 # My first Bioinformatics experience
 
-**Preface**: Bioinformatics covers a wide range of computational biological topics, e.g. developing complex algorithms to answer a complex question.
+**Preface**: Bioinformatics covers a wide range of areas, e.g. developing complex algorithms to answering complex questions.
 
-Aberystwyth University advertised a position for a summer research position in Bioinformatics.
-I always had an interest in Biology, and my partner was a PhD student in Bioinformatics, so I applied.
-I was slightly worried as I didn't have much scientific coding experience, but I was more than willing to learn & teach myself.
+Aberystwyth University advertised a position for a Summer research position in Bioinformatics.
+I always had an interest in Biology, yet slightly worried as I didn't have much scientific coding experience, but I was more than willing to learn.
 
 ## Project
 
@@ -86,4 +85,4 @@ I would like to thank my supervisor [Amanda Clare](https://twitter.com/afcaber "
 Researcher [Andre Soares](https://twitter.com/GeoMicroSoares "Andre's Twitter"), for discussions about the data.
 And [Sam Nicholls](https://twitter.com/samstudio8 "Sam's Twitter"), the developer of `Goldilocks`.
 
-{{< figure src="/aberystwyth/poster.jpg" width=400 alt="me presenting my bioinformatics poster" >}}
+{{< figure src="/aberystwyth/poster.jpg" width=350 alt="me presenting my bioinformatics poster" >}}

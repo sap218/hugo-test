@@ -11,7 +11,10 @@ During my time as a mentor for undergraduates and teaching assistant for Masters
 Now as a PhD student with a bunch of curated responses, the following post is the advice I gave.
 
 The following advice could be helpful, if not: that's OK. 
-**Please note**: the advice below was not mine alone as I had asked fellow PhD students and others.
+
+{{< color-block style="warning" >}}
+The advice below was not mine alone as I asked fellow PhD students and others.
+{{< /color-block >}}
 
 ## What to highlight in the application essay?
 
