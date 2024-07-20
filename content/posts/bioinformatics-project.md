@@ -7,12 +7,14 @@ categories: ['python','bioinformatics']
 
 # My first Bioinformatics experience
 
+**tl;dr**: see the [research poster](https://github.com/sap218/misc/blob/master/bioinformatics_poster.pdf "bioinformatics poster").
+
+## Introduction
+
 **Preface**: Bioinformatics covers a wide range of areas, e.g. developing complex algorithms to answering complex questions.
 
 Aberystwyth University advertised a position for a Summer research position in Bioinformatics.
 I always had an interest in Biology, yet slightly worried as I didn't have much scientific coding experience, but I was more than willing to learn.
-
-## Project
 
 **"An analysis of current state of the art software on nanopore metagenomic data"**.
 
@@ -77,12 +79,11 @@ So this was the final week to wrap-up the summer research project. As a final ta
 
 ## Wrapping-up
 
-We intended to present this work at the BCS Mid Wales "Show & Tell" event as a [**poster**](https://github.com/sap218/misc/blob/master/bioinformatics_poster.pdf "bioinformatics poster").
-But with 24 hours notice, I was also asked to prepare a presentation. The presentation was less than 5 minutes due to running out of time, but I [enjoyed my first experience presenting a research project](https://twitter.com/sap218/status/914106415664500736 "my tweet with me and my poster")!
-I also presented my poster to the Aberystwyth Bioinformatics lab, and we discussed the results and how some tools that were originally designed for short reads may need updating to handle longer reads.
+To finalise, I developed a [poster](https://github.com/sap218/misc/blob/master/bioinformatics_poster.pdf "bioinformatics poster") to present at the BCS Mid Wales "Show & Tell" event.
+With less than 24 hours notice, I was also asked to prepare a 5-min presentation, which I [enjoyed my first experience presenting a research project](https://twitter.com/sap218/status/914106415664500736 "my tweet with me and my poster")!
+I also presented my poster to the Aberystwyth Bioinformatics lab, where we discussed how some tools for short reads aren't designed to handle long reads.
 
-I would like to thank my supervisor [Amanda Clare](https://twitter.com/afcaber "Amanda's Twitter") for the fun opportunity.
-Researcher [Andre Soares](https://twitter.com/GeoMicroSoares "Andre's Twitter"), for discussions about the data.
-And [Sam Nicholls](https://twitter.com/samstudio8 "Sam's Twitter"), the developer of `Goldilocks`.
+I would like to thank my supervisor [Amanda Clare](https://twitter.com/afcaber "Amanda's Twitter") for the fun opportunity and researcher [Andre Soares](https://twitter.com/GeoMicroSoares "Andre's Twitter") for the help and discussions about the data.
+Also thank you, [Sam Nicholls](https://twitter.com/samstudio8 "Sam's Twitter"), the developer of `Goldilocks`, for helping me!
 
 {{< figure src="/aberystwyth/poster.jpg" width=350 alt="me presenting my bioinformatics poster" >}}

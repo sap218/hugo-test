@@ -6,12 +6,12 @@ categories: ['conference','bioinformatics']
 
 # BCS Lovelace Colloquim
 
+**tl;dr**: my first conference, very fun!
+
 The [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/ "BCS Lovelace Colloquium") is an annual conference for women and non-binary individuals in computer science and related fields.
-This year's conference was being held in Sheffield, which I was both excited and nervous as I had only ever visited very few places in the UK.
+I submitted an abstract based on the [poster](https://github.com/sap218/misc/blob/master/bioinformatics_poster.pdf "my bioinformatics poster") from the [Bioinformatics research]({{< ref "bioinformatics-project" >}} "bioinformatics blog") I had done the Summer previously.
 
-I submitted an abstract based on the [Bioinformatics research]({{< ref "bioinformatics-project" >}} "bioinformatics blog") I had done the Summer previously.
-I used the [poster](https://github.com/sap218/misc/blob/master/bioinformatics_poster.pdf "my bioinformatics poster") and improved/updated it.
-
+This year's conference (2018) was held in Sheffield, which I was both excited and nervous as I had only ever visited few places in the UK.
 Due to terrible traffic on the way to Sheffield, I missed the beginning of the social activities (the treasure hunt). But was able to join the group a little towards the end of the evening.
 I met fellow conference attendees from Aberdeen, Bath, and even new Aberystwyth students.
 
@@ -38,3 +38,5 @@ This event, not only a great first conference for me, but I believe a great firs
 The wide variety of individuals and posters makes for such a lovely event. The efforts in each poster were amazing: someone made theirs with fabric and had stitched materials and lights onto it.
 
 Finally, I would like to recommend, "The Street Food Chef", in Sheffield: they do amazing burritos!
+
+{{< figure src="/aberystwyth/lovelace.jpg" width=350 alt="me presenting my bioinformatics poster at the lovelace conference" >}}
