@@ -7,6 +7,8 @@ categories: ['masters','python','bioinformatics']
 
 # Metagenomics of Acid Soil: a study of Nanopore long-reads and Acidobacteria
 
+**tl;dr**: developed a `Python` package to classify unclassified Acidobacteria, [`acidoseq`](https://github.com/sap218/acidoseq "acidoseq git repository") - check out a [summarised version](https://github.com/sap218/misc/blob/master/acidoseq.pdf "acidoseq preprint") of the dissertation.
+
 Since I enjoyed my [Summer Bioinformatics research position]({{< ref "bioinformatics-project" >}} "bioinformatics blog") (2017), for my Masters dissertation I hoped to work with [Amanda Clare](https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/afc/ "Amanda Clare staff profile") again.
 
 Amanda spoke to the same research group, who had new sequences for me to look at.
@@ -14,7 +16,7 @@ These reads were derived using Nanopore sequencing from Aberystwyth soil.
 The output includes ~2 million sequences: made of `ACGT` basepairs.
 
 ## Week 1
-**Acidobacteria** is a phylum of bacteria belonging in the **bacteria** kingdom. It was only recognised in 2012 despite the most abundant and diverse on Earth soils.
+**Acidobacteria** is a phylum of bacteria belonging in the bacteria kingdom. It was only recognised in 2012 despite the most abundant and diverse on Earth soils.
 It has been observed in mines, soils, and metal-contaminated soils; coincidently there are metal mines near Aberystwyth that have contaminated the Rheidol streams possibly resulting in metal contaminated soils.
 
 ## Week 2
@@ -61,22 +63,22 @@ I started to expand `acidoseq` into a usable tool for the scientific community a
 I filtered the data to have at least a quality score of 12 and read-length of 2500: 89 reads.
 We decided to use `Blast2Go` to do a final run and look into the genes.
 The output for Acidobacteria was annotated with the [Gene Ontology](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-S5-S2 "Gene Ontology"), however, due to lack of time I didn't have time to explore the results.
-
-**`acidoseq`** was packaged up and available on [GitHub](https://github.com/sap218/acidoseq "acidoseq git repository"). 
-
-For the next two weeks the time was mostly focused on writing up my dissertation.
+For the final two weeks the time was mostly focused on writing up my dissertation.
 
 ## Week 12
 During my final meeting, Amanda and I discussed corrections, and she provided great feedback. Three days later, I submitted!
 
 ## Wrapping-up
+
+The tool I developed, **`acidoseq`**, was packaged up and made available on [GitHub](https://github.com/sap218/acidoseq "acidoseq git repository"). 
+
 My Masters is complete and it feels great! The [dissertation](https://github.com/sap218/misc/blob/master/postgraduate_dissertation.pdf "masters dissertation") is available to read and includes more information!
-A fun read about `acidoseq` is also available via a [pre-print](https://github.com/sap218/misc/blob/master/acidoseq.pdf "acidoseq preprint"), which I unfortunately didn't get round to submitting to `bioRxiv`.
+A [summarised version](https://github.com/sap218/misc/blob/master/acidoseq.pdf "acidoseq preprint") is also availale (the aim was to publish, which unfortunately we didn't find the time to complete).
 
-I had such fun with this project that I made a Twitter bot, [`acidobot`](https://twitter.com/acido_bot "discontinued acidobot twitter bot") that dispenses facts about Acidobacteria once a day! ***discontinued***
+I had such fun with this project that I made a Twitter bot, [`acidobot`](https://twitter.com/acido_bot "discontinued acidobot twitter bot"), that dispenses facts about Acidobacteria once a day! ***discontinued***
 
-**I would like to thank** my supervisor [Amanda](https://twitter.com/afcaber "Amanda's Twitter") for the supervision and allowing for a fun project and [Arwyn Edwards](https://twitter.com/arwynedwards "Arwyn's Twitter") and team for the intellectual engagement and access to data.
+**I would like to thank** my supervisor [Amanda](https://twitter.com/afcaber "Amanda's Twitter") for providing such a fun research experience and [Arwyn Edwards](https://twitter.com/arwynedwards "Arwyn's Twitter") and team for the intellectual engagement and access to data.
 
-After submission, I only had 4 days until the start of my PhD. Then almost a year after submitting...I had my Masters graduation!
+After submission, I only had 4 days until the start of my PhD. Almost a year after submitting my Masters dissertation...I had my Masters graduation!
 
 {{< figure src="/aberystwyth/msc_graduation.jpg" width=400 alt="me at my masters graduation" >}}
