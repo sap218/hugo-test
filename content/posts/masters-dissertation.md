@@ -7,7 +7,10 @@ categories: ['masters','python','bioinformatics']
 
 # Metagenomics of Acid Soil: a study of Nanopore long-reads and Acidobacteria
 
-**tl;dr**: developed a `Python` package to classify unclassified Acidobacteria, [`acidoseq`](https://github.com/sap218/acidoseq "acidoseq git repository") - check out a [summarised version](https://github.com/sap218/misc/blob/master/acidoseq.pdf "acidoseq preprint") of the dissertation.
+**tl;dr**: check out a [summarised version](https://github.com/sap218/misc/blob/master/acidoseq.pdf "acidoseq preprint") of the dissertation.
+Developed a tool to classify unclassified Acidobacteria, [**`acidoseq`**](https://github.com/sap218/acidoseq "acidoseq git repository").
+
+## Introduction
 
 Since I enjoyed my [Summer Bioinformatics research position]({{< ref "bioinformatics-project" >}} "bioinformatics blog") (2017), for my Masters dissertation I hoped to work with [Amanda Clare](https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/afc/ "Amanda Clare staff profile") again.
 
@@ -33,6 +36,7 @@ Amanda and I discussed finding a way to extract the Acidobacteria sequences whic
 Despite `Kaiju` providing an output with annotated sequence IDs, we can't determine which are Acidobacteria due to absence of taxonIDs.
 
 This is where the idea of **`acidoseq`** emerged: using a `Kaiju` output file with a list of Acidobacteria taxonomy IDs and merge.
+I started development with `Python`.
 
 ## Week 4
 As mentioned, literature highlighted that `GC` content in some subdivisions were consistent.

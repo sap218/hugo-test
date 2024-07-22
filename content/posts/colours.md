@@ -7,10 +7,10 @@ categories: ['python','command line','nlp','sentiment']
 
 # Rainbow project
 
-All fun little `Python` projects via command line interface.
+A set of fun - little - projects developed with `Python` for the command line interface.
 
 {{< color-block style="error" >}}
-As of 2019 these projects are not supported!
+As of 2019 these projects are no longer supported!
 {{< /color-block >}}
 
 ## `indigo`

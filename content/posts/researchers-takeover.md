@@ -6,132 +6,153 @@ categories: ['phd','trends']
 ---
 
 {{< color-block style="info" >}}
-I ran the ResearcHers Twitter account from the 8th until the 12th February 2021 - the below are Tweets I copied over and edited/shortened for the blog & update the reader.
+I ran the ResearcHers Twitter account from the 8th until the 12th February 2021 - below are Tweets I copied over and edited/shortened for the blog/reader.
 {{< /color-block >}}
 
 ## Monday: history
 
-Hello! I'm Samantha, and I'll be tweeting from this account for the week! I'm a 3rd year PhD student at the University of Birmingham in the UK. My field is Clinical Informatics, and I am looking at inflammation! Today I’ll talk about my experience learning to code throughout education: when it started, how it progressed, and what I can do now!
+I'm a 3rd year PhD student (2021) at the University of Birmingham, UK. My field is Clinical Informatics, and I am looking at inflammation!
+Today I'll talk about my experience learning to code throughout education: when it started, how it progressed, and what I can do now!
 
-I was lucky to attend a primary school with a computer suite. My first search engine was Ask Jeeves. I didn't understand what a search engine was at the time and seeing "Ask" meant I literally asked it full questions! These days Google already knows what I want to ask before I have finished typing.
+I was lucky to attend a primary school with a computer suite. My first search engine was **Ask Jeeves**.
+I didn't understand what a search engine was at the time, seeing "Ask" meant I would literally ask it full questions! 
+These days Google already knows what I want to ask before I have finished typing.
 
-The first time I encountered coding was when I was around 8 years old. A school visitor introduced us to "drag & drop" visual programming with a tool called Flowol (somewhat like Scratch). 
-We started with a few exercises: shown how to drag and drop these shapes and that they make a sequence of commands.
-I remember enjoying it so much that I rushed through to ensure I could try all the exercises.
+I was around 8 years old when I first encountered coding.
+A school visitor introduced us to "drag & drop" visual programming with a tool called **Flowol** (like Scratch). 
+We started with a few exercises: arranging shapes to make a sequence of commands.
+I remember enjoying it so much that I rushed through to ensure I could attempt all the exercises.
 
-We finished with a competition: we were grouped up and it was a race to solve the traffic light problem and having to consider the rules.
-I remember my partner and I struggled but I didn't want to stop and so I kept working on. I remember my sequence of shapes became very complex at the end with arrows pointing everywhere, but it worked!
+We finished with a competition: groups would race to solve the **traffic light problem** and students had to consider the rules.
+My partner and I struggled but I persisted. I remember my sequence of shapes became very complex at the end with arrows pointing everywhere, but it worked!
 
-Our school also had a programmable floor robot. There was only one so we couldn't individually try but the teacher would show us how to run it. 
+Our school also had a **programmable floor robot**. There was only one for the school so we couldn't individually try. The teacher would show us how to run it. 
 As much as I enjoyed these experiences, I wouldn't cross paths with programming again until I was in college.
 
-In college (aged 16) I decided to study IT as I enjoyed it and realised I was actually pretty good at it too.
-I originally wanted to be a midwife and undertook child development and health and social care studies alongside IT. I wondered maybe there would be a way I could somehow combine healthcare and IT in my future. 
+In college (aged 16) I decided to study IT as realised I was actually pretty good at it (plus I enjoyed it too).
+This course covered many areas of computing, including: animation, game design, business, and web development.
+I still have the animation project available to anyone to watch - [Little Lonely Bird](https://www.youtube.com/watch?v=hrTA1cGky4o&ab_channel=SamPendleton "my college animation video") - the aim was the provoke emotion.
 
-My IT course at college covered many areas, including: animation, business, and web development.
-I still have the animation project available to watch - [Little Lonely Bird](https://www.youtube.com/watch?v=hrTA1cGky4o&ab_channel=SamPendleton "my college animation video") - the aim was the provoke emotion.
-
-I really enjoyed the web modules. I remember our first task was to build a basic website with `HTML` and `CSS` with Adobe Dreamweaver. I still didn't have a computer at home, so I spent my evenings at school to make sure I wouldn't fall behind.
-The web module is where I also met `Javascript` - although the course was not programming-focused, the teacher provided code snippets which I further explored.
+I really dived in with web lessons. We had to build a basic website with `HTML` and `CSS` with **Adobe Dreamweaver**.
+I didn't have a computer at home, so I spent my evenings at school to ensure I wouldn't fall behind.
+There was another web course which included some `Javascript` - the teacher provided some code snippets, which I further explored in my own time.
+I vageuly recall adding a **clock** to my site.
 When I got a laptop of my own, I tried to learn `Javascript` in my spare time. 
 
-It was at this stage that I had to start thinking about my future: what were my career options? Did I actually want to be a midwife? Did I want to focus on IT? I found IT much easier, and it was so fun. I asked my IT teacher for advice… My IT teacher strongly encouraged me to apply for computer science and to choose a university outside my hometown to gain independence and confidence.
+It was at this stage that I had to start thinking about my future: what were my career options?
+I found IT "easy" and fun. I asked my IT teacher for advice, who strongly encouraged me to do **Computer Science** and told me to choose a university outside my hometown to gain confidence.
 
-I started my [undergraduate degree]({{< ref "undergraduate" >}} "undergraduate blog") at Aberystwyth University, UK, studying Computer Science in 2014. Some coding skills I learnt in my first year included: `Java`, `Arduino C`, and my old friend `Javascript`.
-The CompSci department runs an activity weekend every year for all first years for various team building activities - without phone signal!
+I started my [undergraduate degree]({{< ref "undergraduate" >}} "undergraduate blog") at Aberystwyth University, UK in 2014.
+Some coding skills I learnt in my first year: `Arduino C` and `Java`.
+I struggled with `Java` as going from `Arduino C` to an object-orientated language was too confusing.
+But with every module, I took a book from the library to try and understand more.
+One of my first challenges as an undergrad was the introduction to `Linux` and the command line interface: this was stepping into a whole new computing world.
+It was nothing like I had ever done before.
 
-One of my first challenges as an undergrad was the introduction to Linux and the command line interface. It was nothing like I've ever done before. I stepped into this whole new computing world that included other operating systems! I had previously only ever interacted with a Windows OS.
+My second year modules included: **web programming**, **system administration**, and **databases**.
+New skills gained included: `PHP` and `PostgreSQL`.
 
-I enjoyed - and struggled - with the `Arduino`. On the other hand, I failed `Java`: going from `Arduino C` to object-orientated `Java` was too confusing for me.
-I found it hard to wrap my head around all these new concepts, I tried taking out a book or two from the library, but I didn't understand it as much as I had hoped.
+My third year included a group project and my [dissertation](https://github.com/sap218/misc/blob/master/undergraduate_dissertation.pdf "undergraduate dissertation"). 
+The disseration was a major **web project**: I developed a site for a small cake business with a database.
+This is also the year I was introduced to **Machine learning** which we used the `Weka` software.
+At the end of my third year, I started to think about my next steps: I decided to apply for a Masters in for Data Science.
 
-Due to these struggles and other great advice: it was recommended to swap over to Business IT for my second year onward, and I was happy with that decision. I found programming languages difficult yet enjoyed web building. But it was not the end of my coding experiences!
+During the Summer of 2017 - after undergraduate graduation and before my Masters - I started a research position in [bioinformatics]({{< relref "bioinformatics-project.md" >}} "bioinformatics blog").
+This is also the Summer I really started to dive in `Python` - with help of course!
+This is where I finally *figured out* programming: at all clicked.
 
-My second year modules included: web programming, system administration, and databases.
-During web programming I learnt `PHP` and in databases I learnt `PostgreSQL`.
-I also chose some modules outside the department as I wanted to widen my career choices.
+Autumn 2017 was the start of my Masters in Data Science! 
+I explored various topics and dived deeper into **Machine learning**, **databases**, and newly **statistics**.
+This expanded my skill set with: `R` and `MongoDB`.
 
-My third year included a group project and my final dissertation. My final dissertation was creating a website for a small cake business with a database and a forum for users to talk recipes.
-This is also the year I was introduced to Machine Learning. The machine learning module focused on using the Weka software.
-At the end of my third year, I needed to start thinking about my next steps: I had applied for Data Science.
+One of my most memorable and favourite university modules was the `Python` module.
+This was taught through "live" coding sessions, which the lecturer would get us involved.
 
-Over the Summer of 2017 - after undergraduate graduation - I got an student research position in [bioinformatics]({{< relref "bioinformatics-project.md" >}} "bioinformatics blog") and started my `Python` journey.
-With some help, I finally figured out programming - it all clicked. Despite my prevoius troubles, I finally felt like I understood a programming language with ease! 
-
-Autumn 2017 was the start of my [Masters]({{< ref "masters-dissertation" >}} "masters blog") in Data Science! I explored various topics: statistics; and reintroduced in machine learning and databases. I also learnt new skills: `R` and `MongoDB`.
-One of my most memorable university modules was the introduction to `Python`. This was taught via lectures and practicals, both with live coding during the session and the lecturer would get us involved.
-My Masters project used a variety of skills, especially `Python` looking at Acidobacteria and its DNA content - as part of this I made my first `Python` tool and released it on GitHub.
+My [Masters disseratation project]({{< ref "masters-dissertation" >}} "masters blog") used a variety of skills, 
+The [dissertation](https://github.com/sap218/misc/blob/master/postgraduate_dissertation.pdf "masters dissertation") involved looking at **Acidobacteria** and its DNA content.
+Here I really explored my `Python` skill and developed my first `Python` tool and released it on [GitHub](https://github.com/sap218/acidoseq "link to my first python tool").
 
 ## Tuesday: PhD
 
-One of the major topics I wanted to discuss is my PhD.
+**PhD applications**: over the years, I've had questions from students about PhD applications, including essays & interviews.
+**Note to reader**: although I Tweeted advice, to avoid duplication you read the information in my [PhD applications]({{< ref "phd-applications.md#tips" >}} "PhD applications blog specifically tips") blog.
 
-Firstly, I'd like to discuss PhD applications! I've had a few questions from Masters students over the past year about PhD applications, including essays & interviews
-(**note**: although I Tweeted some advice - to avoid duplication I've decided to link the [PhD applications]({{< ref "phd-applications.md#tips" >}} "PhD applications blog specifically tips") post.)
+My **original PhD title was different**: the plan was to use various Biobanks and link metadata gaps, however, we soon learnt that the data wasn't available... 
 
-My PhD is focused on inflammation!
+> Creating an AI based data assistant to bridge genotype to metadata linking primary clinical data to biobank sample
+
+The new aim is to investigate **inflammation** using the **UK Biobank**.
 I am looking into non-traditional biomarkers of inflammation through various methods & data sources: structured and unstructured.
-Some non-traditional biomarkers include blood assays and clinical letters.
+Some non-traditional biomarkers include **blood assays** and **clinical letters**.
 
-My original PhD title was different: the plan was to use various Biobanks studies and link up missing gaps, however we soon learnt that the data wasn't available... 
-The new aim is to work on patients in the UK Biobank, which is a long study aimed to investigate the contributions and development of a disease both genetically and environmentally.
+**Note to reader**: this takeover was in 2021 (3rd year) and I have since completed my PhD! Readers can read about it [here]({{< ref "the-phd.md" >}} "the PhD blog").
 
-"Creating an AI based data assistant to bridge genotype to metadata linking primary clinical data to biobank sample" - my original PhD title
-
-To link back to yesterday and my coding experience - currently my main language is `Python`, sometimes I use `R` for statistics or plotting. At first, I struggled a lot with `Python` dictionaries but I've finally become friends with them.
+To link back to yesterday about coding experience, currently my main language is `Python` but I also use `R` for statistics or making **nice plots**.
 
 ## Wednesday: skills
 
-My main interests are: machine learning, ontologies, and natural language processing!
+My main interests are: **Machine learning**, **ontologies**, and **natural language processing**!
 
-Machine learning (ML) is "learning from data", it can be supervised prediction with labelled data or unsupervised clustering to highlight unseen relationships in data.
+Machine learning (ML) is "learning from data", it can be supervised prediction with labelled data or **unsupervised clustering** to reveal patterns in data.
+I'm most interested in **clustering** and have experience using `K-means`, `hierarchical`, `DBScan`, `spectral`, and more!
 
-I'm most interested in clustering as I like to observe patterns in my data and enjoy exploring the clusters.
-I've used `K-means`, `hierarchical`, `DBScan`, `spectral`, and more!
-Because I work with such large datasets, I have used various dimensionality reduction methods: specifically `t-SNE` and `PCA`. An interesting tool I found is `PCAmixdata` (in `R`) essentially combining `PCA` (continuous) and `MCA` (categorical) - I would definitely recommend!
+Don't forget **visualisation** - it's important to see what the data looks like.
+To visualise data with a high number of dimensions, I explored various **dimensionality reduction** methods: specifically `t-SNE` and `PCA`. An interesting tool I found is `PCAmixdata` (in `R`) essentially combining `PCA` (continuous) and `MCA` (categorical).
 
-The main toolkit I use for my clustering is the `scikit-learn` module in `Python` - it also includes functionality for dimensionality reduction and methods for the optimal number of `K`.
-I like to say that there's no "right way" to do machine learning - but parameter finetuning can improve results! Don't forget visualisation - it's important to see what the data looks like too.
+For all things Machine learning, I use the `scikit-learn` module in `Python` which also does statistics, dimensionality reduction, and methods for the optimal number of `K`.
+I like to say that there's no "right way" to do Machine learning - but **parameter finetuning can improve results**! 
 
-Ontologies condense a domain of knowledge in formalised structure. The concepts of an ontology have metadata and relationships.
+**Ontologies** condense a domain of knowledge in formalised structure. The concepts of an ontology have metadata and relationships.
 For example, in human anatomy: hand "part of" arm [synonym = upper limb]. 
 
-Ontologies allow us to do association text mining: we can extract important sentences from a document using terms and their corresponding synonyms. 
-In relation to my PhD: I aim to look at clinical letters of patients with inflammation and look into word vectorisation: looking how terms are closely related to one-another.
+Ontologies help with **semantic similarity**: allowing us to do association text mining: extracting important information from a document using terms and corresponding synonyms. 
+In relation to my PhD: I aim to look at **word vectorisation** of clinical letters: looking how inflammatory terms are closely related to one-another.
 
-If you want a way to visualise an ontology, I recommend the `WebVOWL` online tool - with interactive features!
-If you are interested in NLP, I recommend `spaCy` as it has a brilliant tutorial/guide - I personally find this tool the best one for `PoS tagging` and such thus far.
+My work in **natural language processing** (NLP) has proved difficult as many tools don't allow for easy ontology use and so additional wrangling is needed... 
+A first step to overcome this barrier: I developed [Jabberwocky]({{< ref "jabberwocky.md" >}} "jabberwocky project"), an NLP toolkit for the easy manipulation of ontologies.
 
-My NLP work has proved difficult as many tools that exist for NLP tasks don't allow for easy ontology use and additional wrangling was needed... A first step to overcome this barrier: I developed [Jabberwocky]({{< ref "jabberwocky" >}} "jabberwocky project")! An initial plan to plug-in an ontology for associated text mining.
+If you are interested in **NLP**, I recommend `spaCy` as it has a brilliant [tutorial/guide](https://spacy.io/ "link to spacy").
+Moreover, if you are interested in visualising an ontology, I recommend the `WebVOWL` [online tool](https://service.tib.eu/webvowl/ "link to webvowl, an online ontology plotting tool").
 
-Finally, I have also been dipping my toes into the genomics side of bioinformatics via genome-wide association studies (GWAS): looking into genetic variants of a group of people to observe if any variant is associated with a trait; e.g. diabetic patients could have the same variant which is associated with a particular trait of diabetes.
-To be honest, this is not my strongest skill: I don't feel confident in the genetics area yet, but individuals in my lab co-created a script and shared with me!
+**Note to reader**: I've found `WebVOWL` to not be 100% reliable. I have since developed `Jabberwocky eyes()` [function](https://github.com/sap218/jabberwocky "link to Jabberwocky repository") for plotting ontologies.
+
+Finally, I have also been dipping my toes into the genomics side of bioinformatics via genome-wide association studies (**GWAS**): looking into genetic variants of a group of people to observe common traits.
+To be honest, this is not my strongest skill: I am not confident in genetics, but others in my lab created a script and shared with me to help!
 
 ## Thursday: struggles
 
-One of my biggest struggles is trying to explain my methods or results to others - I'm still learning about terms that I should be using or still trying to communicate my results... An example of this is: using "feature" instead of "column" when describing data.
+One of my biggest struggles is trying to communicate my work - I'm still learning about the correct terms I should be using and how to present my results...
+An example of this is: using "feature" instead of "column" when describing data.
 
-Writing - although I enjoy writing, my grammar is not the best...BUT it doesn't stop me from trying, and I appreciate others spending time helping me improve my work!
-It started off quite difficult to accept feedback, but it came from a place of embarrassment - I've learnt to value comments!
+Futhermore, I'm quite nervous about conferences because I worry that I'll be asked questions that I can't answer (relating to my struggle in communicating).
+In all though, conferences are good for networking and career experiences.
 
-Relating to work itself, it's important for me to have some sort of IDE while programming. I like to easily run a script, tab functions, and observe my variables.
-I need to "see" my output before I can continue, maybe it’s because I'm still not 100% confident in my programming skills.
+Continuing with the struggle in communicating my work...Although I enjoy writing, my grammar is not the best - BUT it doesn't stop me from trying.
+It started off quite difficult to accept feedback as it came from a place of embarrassment. 
+Now I value comments and I appreciate others spending time reviewing my work!
+
+Relating to work itself, it's important for me to have some sort of `IDE` while programming.
+I "need to see" my variables to continue, perhaps this comes from a place of doubt as I'm still not 100% confident in my programming skills.
 I use `Spyder` for `Python` and `RStudio` for `R`.
 
-Conferences: I'm quite nervous about conferences because I worry that I'll be aksed a question that I can't answer - but conferences are good for networking and career experiences.
-
-Mental health! It's very important to take time for yourself and do things you enjoy!
-I've had to take a day or few off in the past year because of the overwhelming stress… No matter if you're in academia or industry, you need to take care of yourself and it's important for businesses/companies to take care of their employees!
-In 2018 [I wrote a blog post about witnessing my partner writing their PhD]({{< relref "outsider-perspective-of-phd.md" >}} "perspective of PhD blog") and I had to watch them sad, happy, angry….and now being in that position, I completely understand!
-
-Trying to survive this pandemic has been difficult.
-I'm lucky to not have my work affected as it's computational - but I still struggle.
-My body aches as I don't get my daily walk into work & my back hurts from my cheap chair!
+One major struggle is not specifically related to the PhD, but rather trying to survive this pandemic.
+I'm lucky to not have my work affected as it's computational - but I still find it difficult.
 I'm too nervous to go outside because I see a lot of people not wearing masks and times are scary for me...
+My body aches as I don't get my daily walk & my back hurts from my cheap chair!
+
+It's very important to take time for yourself and do things you enjoy!
+I've had to take a day or few off in the past year because of the overwhelming stress...
+No matter in academia or industry, you need to take care of yourself and businesses/companies need to take care of their employees!
+
+The PhD is an emotional rollercoaster, in 2018 I wrote up about [witnessing my partner writing their PhD]({{< relref "outsider-perspective-of-phd.md" >}} "perspective of PhD blog") and now being in that position, I completely understand!
 
 ## Friday: funday
 
-Hobbies! Since the pandemic I’ve started a bunch of hobbies: knitting, clay sculpting, and I also code for fun!
-I have a [Colours]({{< relref "colours.md" >}} "colours project") project that's been in development for a few years: small, simple tools with the techniques I've learnt throughout my years in education!
+Hobbies! Since the pandemic I've started a bunch of hobbies: knitting, clay sculpting, and I also coding more for fun!
+I have a [Colours]({{< relref "colours.md" >}} "colours project") project that's been in development for a few years: small tools developed with the techniques I've gained throughout my years in education!
 
 Music I listen to whilst working: I love soundtracks! Such as Tron Legacy & Interstellar... Hans Zimmer is my go-to!
+
+{{< color-block style="success" >}}
+I do apologise for the wall of text! If you stuck around - thank you!
+{{< /color-block >}}

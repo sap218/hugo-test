@@ -7,6 +7,10 @@ categories: ['phd','my perspective']
 
 # My experience of the PhD application process
 
+**tl;dr**: be yourself, include things you have learnt (even if not much practical experience), and get some buzz words in the bank (make sure you use them correctly)!
+
+## Introduction
+
 During my time as a mentor for undergraduates and teaching assistant for Masters students, I have had questions about the PhD application process.
 Now as a PhD student with a bunch of curated responses, the following post is the advice I gave.
 
@@ -118,7 +122,9 @@ But personally, this question caught me off guard! I knew my supervisor's resear
 + Buzz words should include your skills and other relevant topics - but don't throw them needlessly and without knowledge.
 + Finally, do a little background research into the research area and the supervisor - but don't worry about needing to know the inner details and the algorithms.
 
-### Good luck!
 These are all my opinions and experiences - everyone's is different - and each panel will ask different things.
 The PhD is a learning and development journey, and the supervisor should be passing on their knowledge. 
-Good luck to anyone reading this who is preparing for a PhD application/interview.
+
+{{< color-block style="success" >}}
+Good luck to anyone reading who is preparing for a PhD application/interview.
+{{< /color-block >}}
