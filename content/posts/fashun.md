@@ -5,47 +5,45 @@ toc: true
 categories: ['r','shiny','sentiment','trends']
 ---
 
-# Fashun: an `R` Shiny app of fashion trends
+# Fashun: an `R` Shiny App of fashion trends
 
-I want to start by saying fashion (or *fashun*) is whatever you want it to be - whether that is wearing double denim, or two completely different patterns.
-I enjoy fashion. By "fashion" I mean any outfit - I find clothing an outlet to expressing oneself.
+I want to start by saying fashion (or *fashun*) is whatever **you** decide - whether that is double denim or choosing two completely different patterns.
+I enjoy fashion, and for me, this is an outlet for expressing oneself.
 
-[**>> Fashun app**](https://sap218.shinyapps.io/fashun_app/ "R Shiny fashion application called Fashun")
+[**>> Fashun App**](https://sap218.shinyapps.io/fashun_app/ "R Shiny fashion application called Fashun")
 
 ## Introduction
 
-Setting the scene: I have just handed in my PhD thesis and found that there's extra free time in my evenings.
-I thought, what skills can I learn in my spare time? 
-I enjoy text wrangling, mining, and overall text analysis and so wanted to dive into a text-based project.
+Setting the scene: I have just handed in my PhD thesis and although I have a job, my evenings are no longer full of writing.
+In my job, I have been developing a data dashboard and found I've enjoyed using `Shiny`.
+So, I decided I would expand my skills in these evenings: looking at data handling, dashboards, and text analysis.
 
-Using Google Trends, Twitter API, and `R` Shiny I created a project that looks at fashion trends, correlations, and sentiment analysis.
-
-1. The Trends analysis includes correlations and seasonal trends of Google data.
-2. Sentiment analysis of Twitter posts that included particular fashion terms compares various fashion topic sentiments.
-
-You can explore data via the interactive `R` Shiny app I developed, [Fashun](https://sap218.shinyapps.io/fashun_app/ "Fashun the R Shiny application of fashion trends").
+**`Shiny`**
+: a package for building interactive web applications.
 
 ## Methodology
 
-Other than `R` for the Shiny app, I used `Python` to extract and wrangle the data.
+I used `Python` for data extraction and data engineering. I used `R` version of [`Shiny`](https://shiny.posit.co/ "link to shiny") for app development. 
+
+Using Google Trends via [`pytrends`](https://pypi.org/project/pytrends/ "link to google trends package") and a Twitter API via [`tweepy`](https://pypi.org/project/tweepy/ "link to twitter API package"), I created the app that looks at fashion trends, correlations, and sentiment analysis.
+
+1. The Trends analysis includes Google data relating to fashion and the correlations, plus seasonal observations.
+2. Sentiment analysis of Twitter posts - that included terms relating to fashion - compares the opinions of various topics.
 
 ## Google Trends
 
-I used Google's `pytrends` to collect the data using category 185 "Fashion & Style" from official category list. Date from the beginning of 2019 until July 2022.
+Using `pytrends`, I collected data with category 185 "Fashion & Style" from the [category list](https://github.com/pat310/google-trends-api/wiki/Google-Trends-Categories "google trends category list"). Date from the beginning of 2019 until July 2022.
 
 ```
 from pytrends.request import TrendReq as UTrendReq 
 pytrends.build_payload(values, cat=185, geo="GB-ENG", timeframe=f'2019-01-01 {date.today()}',)
 ```
 
-
-### Trend occurances
-
 {{< figure src="/fashun/trends/heatmap_full.png" caption="**Figure**: Correlation matrix of trend occurrences between terms of interest. Green represents positive correlation, white neutral, and purple negative. For example: earrings and necklace are highly correlated, both a fashion accessory." alt="trends correlation matrix" >}}
 
 We can see some fashion correlations from the above matrix, such as: accessories (earrings and necklace) and seasonal (winter, coat, boots, scarf). Winter itself correlating negatively with Summer.
 Correlation can infer semantics (coat and jacket) and indicate synonyms.
-Some interesting correlations include a positive relationships between earrings and black; and a negative relationship between Summer and bracelet & earrings.
+Some interesting correlations include a positive relationship between earrings and black; and a negative relationship between Summer and bracelet & earrings.
 
 | High correlation  | Low correlation |
 | ------------- | ------------- |
@@ -63,8 +61,9 @@ Some interesting correlations include a positive relationships between earrings 
 | beach & dress |  |
 | jeans & trainers |  |
 
-Below dives in deeper with two terms with correlated highly with others, summer and boots.
-We can see that summer correlates positively with sunglasses, shorts, floral, dress, and beach (x > 0.5). However, correlates negatively with winter, boots, coat, scarf, and interestingly earrings (x < -0.5).
+Below dives deeper of two terms and individual correlations: summer and boots.
+We can see that summer correlates positively with sunglasses, shorts, floral, dress, and beach (x > 0.5). 
+However, correlates negatively with winter, boots, coat, scarf, and interestingly earrings (x < -0.5).
 
 On the other hand, boots correlate with scarf, coat, black, and more (x > 0.5).
 Correlates low with terms that summer correlates high with.
@@ -82,9 +81,9 @@ The above plot shows seasonal fashion over time: spring starts to trend in the n
 
 Below are specific terms and their trends both over the year (left) and a weekly average (right).
 Scarf starts to trend in the autumn and peaks in December.
-The floral (pattern) trends around the beginning of Summer and cardigan have no obvious trend with the exception of peaks in June/July.
+The floral (pattern) trends around the beginning of Summer and there is no obvious trend for cardigan except for peaks in June/July.
 
-| Seasonal | Weekly |
+| 6-month | Weekly |
 | ------------- | ------------- |
 | {{< figure src="/fashun/trends/time_seasons_scarf_full.png" width=400 alt="yearly trend scarf" >}} | {{< figure src="/fashun/trends/time_seasons_scarf_weekly.png" width=400 alt="weekly trend scarf" >}} |
 | {{< figure src="/fashun/trends/time_seasons_floral_full.png" width=400 alt="yearly trend floral" >}} | {{< figure src="/fashun/trends/time_seasons_floral_weekly.png" width=400 alt="weekly trend floral" >}} |
@@ -100,13 +99,12 @@ Pink, which was fashionable in Summer 2022, steadily increased over time.
 
 
 
-## Twitter API Sentiment
+## Twitter Sentiment
 
-I used Twitter's API package `tweepy` only obtaining single tweets - excluding replies, retweets, and links. 
+Using `tweepy` I collected single tweets (no replies, retweets, or links) and then used [`VADER`](https://pypi.org/project/vaderSentiment/ "link to vader sentiment") for sentiment analysis as it is a rule-based method pre-trained with tweets.
 ```
 tweet_search = "lang:en -filter:links -filter:replies -filter:retweets"
 ```
-I used `VADER` for sentiment analysis as it is a rule-based method pre-trained with tweets.
 
 {{< figure src="/fashun/sentiment/boxplot_sentiment.png" caption="**Figure**: Boxplots of sentiment scores across all fashion topics." alt="sentiment scores boxplots" >}}
 
@@ -126,12 +124,22 @@ Finally, in shoes we see that both heels and boots have a lower average sentimen
 
 ## Wrapping-up
 
-[**>> Shiny Fashun app**](https://sap218.shinyapps.io/fashun_app/ "R Shiny fashion application")
+This project was fun! I had intended to explore the data in more detail and better describe the methods.
+For example, with the Twitter text output, I would do more investigations and extract out tweets that may be completely irrelevant.
+So perhaps this post will be expanded in the future!
 
-This project was fun! In future - with more time - I would need to investigate the outputs in more detail.
-For example, with the Twitter API text output, I would need to properly investigate and conduct further NLP tasks on the text as some fashion terms may have pulled irrelevant information.
-Although, future work on this can be difficult: as of 2023, Twitter is now X and so I don't believe I can replicate the sentiment analysis.
+The code is available on [GitHub](https://github.com/sap218/fashun "github link") which includes the data extraction, engineering, and the application code.
+
+{{< color-block style="warning" >}}
+As of 2023, Twitter is now X and so the Twitter API code will probably not run. I believe in order to access, one would need to pay/have a subscription.
+{{< /color-block >}}
+
+## The App
+
+[**>> Fashun App**](https://sap218.shinyapps.io/fashun_app/ "R Shiny fashion application called Fashun")
+
+{{< figure src="/fashun/shiny.PNG" caption="**Figure**: A screenshot of the Fashun App." alt="screenshot of the app" >}}
 
 {{< color-block style="info" >}}
-Please do have a little explore of the Fashun app and your own investigations.
+Please do have a little explore - let me know if you find anything interesting!
 {{< /color-block >}}
