@@ -24,7 +24,7 @@ Most notably, resources derived from this work is available, open-source, for se
 With guidance from domain experts and a foundation derived from clinical consensus documents, I created the Ocular Immune-Mediated Inflammatory Diseases Ontology ([OcIMIDo]({{< ref "ocimido" >}} "ocular ontology project")).
 OcIMIDo was enhanced with patient-preferred terms, curated from online forum conversations, using a semi-automated statistical approach - with application of sentiment analysis.
 
-Semantic similarity was explored using a pre-existing embedding model derived from clinical letters to retrain with patient-generated forum conversations.
+Semantic similarity was explored using a pre-existing embedding model derived from clinical letters to retrain with patient-generated forum conversations ([PatientINF]({{< ref "patientinf-coid" >}})).
 Systematic comparison were conducted to compare the clinician and patient voice.
 
 In a final experimental chapter, blood markers of IBD participants were clustered and mapped to questionnaire data relating to quality of life.
@@ -34,7 +34,7 @@ In a final experimental chapter, blood markers of IBD participants were clustere
 OcIMIDo is the first of its kind in ophthalmology[^ocimido] and patient-preferred terms prove the patient voice provides meaningful research efforts.
 Sentiment analysis highlighted insight into the role a forum plays for patients and carers.
 
-Semantic similarity highlighted potential novel disease associations and the patient lexicon.
+Semantic similarity highlighted potential novel disease associations and the patient lexicon for terms relating to inflammation[^coid].
 Experiments revealed frequent misspellings from clinicians; use of abbreviations from patients; and patient priorities.
 
 Clusters unveiled insight into the presence of inflammatory stress and the relationship with happiness.
@@ -48,3 +48,4 @@ In future, this work can highlight extra investigations during the diagnosis pro
 
 [^thesis]: Pendleton, Samantha C. [Investigations into the patient voice: a multi-perspective analysis of inflammation](https://etheses.bham.ac.uk/id/eprint/13244/ "thesis"). Thesis. University of Birmingham, 2023.
 [^ocimido]: Pendleton, Samantha C., et al. "Development and application of the [ocular immune-mediated inflammatory diseases ontology](https://www.sciencedirect.com/science/article/pii/S001048252100336X "paper for ontology project") enhanced with synonyms from online patient support forum conversation." Computers in biology and medicine 135 (2021): 104542.
+[^coid]: Pendleton, Samantha C., et al. "Combined Ontology for Inflammatory Diseases [COID](https://doi.org/10.5281/zenodo.5524650 "paper for inflammation project")." Zenodo (2021).

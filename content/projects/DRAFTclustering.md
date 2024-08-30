@@ -12,3 +12,5 @@ Come back soon.
 {{< /color-block >}}
 
 p.s. note to self: don't forget to mention clustering betablockers work :)
+
+{{< figure src="/ml/workflow.png" width=600 caption="**Figure**: Graphical representation of COID. Each node is a class and each edge is a relationship." alt="coid visualised" >}}
