@@ -40,4 +40,6 @@ I graduated in 2017 and that Summer I started my research journey in a small [Bi
 Afterward, I went on to study a Masters degree in Data Science.
 My [undergraduate dissertation](https://github.com/sap218/misc/blob/master/undergraduate_dissertation.pdf "undergraduate dissertation") is available to read.
 
-{{< figure src="/aberystwyth/ug_graduation.jpg" width=450 alt="me at my undergraduate graduation" >}}
+| Undergraduate graduation | Aberystwyth seafront |
+| -------- | ------- |
+| {{< figure src="/aberystwyth/ug_graduation.jpg" width=450 alt="me at my undergraduate graduation" >}} | {{< figure src="/aberystwyth/seafront.jpg" width=450 alt="my photo of aberystwyth seafront" >}} |

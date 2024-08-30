@@ -44,7 +44,7 @@ So where was I this past year?
 I completed my PhD! Now officially a **Doctor in Clinical Informatics**. I aim to write-up the PhD: experience, Viva, and corrections. 
 My graduation was in July, my family visited Birmingham for the first time and although it rained, it was an amazing day spent with my favourite people.
 
-{{< figure src="/academia/graduation.jpg" width="200" alt="me with the fancy PhD cap and gown" >}}
+{{< figure src="/other/where-am-i.jpg" width="450" alt="me sitting on an elephant bench in royal Leamington Spa" >}}
 
 Even bigger news is that I've officially moved to Oxford! 
 Throughout 2023 I have been living in a caravan on a Farm in Swansea, saving, to make the big leap and move closer to work.

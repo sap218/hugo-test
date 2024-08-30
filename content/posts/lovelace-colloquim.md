@@ -20,7 +20,9 @@ I met fellow conference attendees from Aberdeen, Bath, and even new Aberystwyth 
 I woke up at 7:30am the next day, left the lodge at 9am to leisurely stroll over to the venue, whilst enjoying the sights of the town.
 At the venue I got my name sticker - that I forever stuck to my laptop! I also got a freebie bold set of - colourful - Google sunglasses.
 
-The conference talks were held at a lovely lecture theatre with beautiful stained glass windows at the entrance, where I enjoyed a variety of interesting talks about careers and fields of study.
+The conference talks were held at a lovely lecture theatre with beautiful stained glass windows and a design at the entrance also (photo below), where I enjoyed a variety of interesting talks about careers and fields of study.
+
+{{< figure src="/aberystwyth/lovelace-venue.jpg" width=300 alt="photo of stained glass window at lovelace venue in sheffield uni" >}}
 
 The key-note speaker, [Tanja Lichtensteiger](https://twitter.com/grappleshark "Lovelace key-note Tanja Lichtensteiger"), gave an amazing talk about her background, career, and upbringing. I appreciated the personality in the presentation as she also talked about her other interests and hobbies.
 There was a wonderful panel at the end with inspiring individuals in tech and each panel member invested their time answering questions with their insightful experiences.
