@@ -5,7 +5,7 @@ draft: true
 ---
 
 # Tags
-{{< terms-cloud terms="categories" >}}
+{{< terms-cloud terms="categories" sortby="alphabetical" >}}
 
 <!--
 
