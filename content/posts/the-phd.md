@@ -103,63 +103,6 @@ I was a little frustrated as I had hoped to have that sort of feedback much earl
 
 So with the help from my partner, we spent a lot of evenings proof-reading the thesis. Which I am forever grateful for as I know it was a huge task and burden.
 
-**Important**: the next section is a summary of the thesis, a full version is available to [read here]({{< ref "patientvoice" >}}).
-If you wish to skip, you can [click here to continue onto the Viva]({{< relref "the-phd.md#viva-sep-2022" >}}).
-
-***
-
-## Thesis summary
-
-Inflammation is the body's first response to threat, generally present in many cases, and has a complex relationship with a wide range of diseases.
-
-### Chapter 1
-Uveitis and other ocular immune-mediated inflammatory diseases (IMIDs) are chronic conditions and in many cases life threatening.
-Having good vision is important to our everyday lives - affecting our Quality of Life (QoL) - and these ocular IMIDs cause problems, such as pain or blurriness.
-Not only is there an unmet need for capturing the patient voice and their perspective of ocular IMIDs, but these clinical terms also needed to be standardised.
-
-We can understand the patient better when knowing the terms they are using. 
-A resource of patient-preferred synonyms is online patient forum conversations; however these are inaccessible due to being unstructured.
-Ontologies have previously demonstrated great success in addressing the challenge presented by unstructured text, yet current biomedical ontologies for uveitis are limited.
-
-**Ontology**
-: a domain of knowledge condensed into a machine-readable format. For example: domain = anatomy, concepts in the ontology includes: hand, arm, and relationship can be hand "part of" arm.
-
-This chapter built an ontology for ocular IMIDs to standardise the clinical vocabulary and structure and expanded with patient-preferred synonyms.
-To capture these patient synonyms, a statistical technique was applied to a forum for curation and enhancement of the ontology.
-The ontology was then used for opinion mining on particular medical therapies, types of uveitis, symptoms, etc.
-
-### Chapter 2
-
-This chapter continued to investigate the differences between the terms clinicians and patients use.
-The clinical experts and I noticed a large number of *surprising* terms that the patient used.
-To better understand both the patient and clinician, semantic similarity was explored, encapsulated via vectorisation.
-
-**Semantic similarity**
-: measure of relatedness between two concepts. For example: bone fracture and broken bone are the same.
-
-**Vectorisation**
-: numerically representing text in an embedding model. For example: hello and hi may be numerically close.
-
-I used an embedding model derived from clinical letters and retrained with patient forum conversations.
-Both clinicians and patients cover a wide range of medical-related concepts and relatedness, such as chronic severe inflammatory conditions to less intense acute incidents.
-My investigations included a combination of manual evaluation, clustering, and semantic analysis.
-
-### Chapter 3
-
-Inflammatory Bowel Disease (IBD) is characterised as a chronic, non-infectious, autoimmune, digestive, inflammatory disease.
-Patients who have IBD learn to live with their disease - specifically to control their inflammation - via medical therapies, strict diets, or stop smoking and so their biomarkers may be stable due to the regulation of their disease.
-To diagnose, there are rigorous investigations, however, very invasive and can take years.
-
-For IBD, there is a need for identifying novel blood biomarkers (preferred by the patient) as many GPs only refer patients for further tests if there is an elevated C-reactive protein (CRP) or issues in a stool sample (uncomfortable for the patient). 
-Furthemore, studies lack in bridging biomarkers for IBD and the patient QoL.
-
-The data I have access to consists of hospital records for stratifying patients into groups for those at study enrollment: diagnosed and not-yet diagnosed.
-My methods explored the world of Machine learning (ML) with application of numerous clustering techniques to reveal patterns in biomarkers and mapping questionnaire data.
-The goal was being able to characterise and extract valuable information from clustering in hope a pattern with QoL emerged.
-
-**Machine learning**
-: finding complex patterns in data potentially to predict an outcome.
-
 ### Interesting results
 
 + Patient terms are used frequently and need to be considered in research, specifically abbreviations or common misspellings.
@@ -170,7 +113,8 @@ The goal was being able to characterise and extract valuable information from cl
 
 A patient's experience with their chronic, inflammatory disease is complex yet they are the expert of their experience and their voice is indispensable to science.
 
-***
+**Note**: you can read a summary of my research in a separate [project page]({{< ref "patientvoice" >}}).
+<!-- If you wish to skip, you can [click here to continue onto the Viva]({{< relref "the-phd.md#viva-sep-2022" >}}). -->
 
 ## Viva (Sep 2022)
 

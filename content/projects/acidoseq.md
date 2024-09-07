@@ -8,7 +8,8 @@ categories: ['command line','masters','python','bioinformatics','project','trend
 
 **Acidoseq** is tool for studying unclassified Acidobacteria reads from Nanopore metagenomic data.
 It is a `Python` package available open-source on [GitHub](https://github.com/sap218/acidoseq "github") with a [condensed paper](https://github.com/sap218/misc/blob/master/acidoseq.pdf "condensed acidoseq paper").
-This work was a part of my [Masters Dissertation](https://github.com/sap218/misc/blob/master/postgraduate_dissertation.pdf "msc dissertation") (2018). 
+
+This work was a part of my [Masters degree]({{< ref "masters-dissertation" >}} "masters blog") (2018), which the [dissertation](https://github.com/sap218/misc/blob/master/postgraduate_dissertation.pdf "msc dissertation") is available to read.
 
 **The motivation** behind development of this package was due to many of Acidobacteria's recovered sequences were labelled as "unclassified".
 

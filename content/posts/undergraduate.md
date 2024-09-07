@@ -37,7 +37,7 @@ One piece of feedback, which I am very proud of:
 > one of the best websites made from scratch
 
 I graduated in 2017 and that Summer I started my research journey in a small [Bioinformatics]({{< ref "bioinformatics-project" >}} "bioinformatics blog") project. 
-Afterward, I went on to study a Masters degree in Data Science.
+Afterward, I went on to study a [Masters degree]({{< ref "masters-dissertation" >}} "masters blog") in Data Science.
 My [undergraduate dissertation](https://github.com/sap218/misc/blob/master/undergraduate_dissertation.pdf "undergraduate dissertation") is available to read.
 
 | Undergraduate graduation | Aberystwyth seafront |

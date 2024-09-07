@@ -15,4 +15,4 @@ pagination: true
 + Check out my [photography](https://www.flickr.com/photos/sap218/albums/ "my photographs with my fancy camera") or my [digital artwork]({{< ref "digitalart" >}}).
 + Contact me at **`hello@sap218.uk`**.
 
-{{< figure src="/academia/post-viva.jpg" width=400 alt="me immediately post viva" >}}
+{{< figure src="/other/2024.jpg" width=400 alt="me immediately post viva" >}}

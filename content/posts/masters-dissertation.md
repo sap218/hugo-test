@@ -8,7 +8,8 @@ categories: ['masters','python','bioinformatics']
 # Metagenomics of Acid Soil: a study of Nanopore long-reads and Acidobacteria
 
 **tl;dr**: check out a [summarised version](https://github.com/sap218/misc/blob/master/acidoseq.pdf "acidoseq preprint") of the dissertation.
-Developed a tool to classify unclassified Acidobacteria, [**`acidoseq`**](https://github.com/sap218/acidoseq "acidoseq git repository").
+
+Developed a tool to classify unclassified Acidobacteria, [**`acidoseq`**](https://github.com/sap218/acidoseq "acidoseq git repository"), which is available to read in more detail in a [project page]({{< ref "acidoseq" >}} "acidoseq page").
 
 ## Introduction
 
@@ -83,6 +84,6 @@ I had such fun with this project that I made a Twitter bot, [`acidobot`](https:/
 
 **I would like to thank** my supervisor [Amanda](https://twitter.com/afcaber "Amanda's Twitter") for providing such a fun research experience and [Arwyn Edwards](https://twitter.com/arwynedwards "Arwyn's Twitter") and team for the intellectual engagement and access to data.
 
-After submission, I only had 4 days until the start of my PhD. Almost a year after submitting my Masters dissertation...I had my Masters graduation!
+After submission, I only had 4 days until the start of my [PhD]({{< ref "the-phd" >}} "phd blog"). Almost a year after submitting my Masters dissertation...I had my Masters graduation!
 
 {{< figure src="/aberystwyth/msc_graduation.jpg" width=400 alt="me at my masters graduation" >}}
