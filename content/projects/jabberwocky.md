@@ -1,7 +1,7 @@
 ---
 title: "Jabberwocky"
 date: 2021-05-11
-categories: ['python','ontology','nlp','tf-idf','project']
+categories: ['python','ontology','nlp','tf-idf','tool']
 ---
 
 # Jabberwocky

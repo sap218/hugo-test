@@ -1,7 +1,7 @@
 ---
 title: "Digital Art"
 date: 2021-01-03
-categories: ['other','phd']
+categories: ['art','phd']
 ---
 
 # My Digital Artwork

@@ -1,7 +1,6 @@
 ---
 title: "Old Poem"
 date: 2017-08-31
-categories: ['other']
 ---
 
 # Banging Playground

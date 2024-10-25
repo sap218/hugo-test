@@ -2,7 +2,7 @@
 title: "Bioinformatics"
 date: 2017-10-06
 toc: true
-categories: ['python','bioinformatics','job']
+categories: ['python','bioinformatics','job','project']
 ---
 
 # My first Bioinformatics experience

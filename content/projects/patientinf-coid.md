@@ -2,7 +2,7 @@
 title: "PatientINF & COID"
 date: 2022-04-20
 toc: true
-categories: ['ontology','nlp','tf-idf','patient voice','machine learning','semantic similarity','project']
+categories: ['ontology','nlp','tf-idf','patient voice','machine learning','semantic similarity','inflammation','tool']
 ---
 
 # PatientINF & COID

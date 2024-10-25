@@ -1,7 +1,7 @@
 ---
 title: "Acidoseq"
 date: 2018-11-24
-categories: ['command line','masters','python','bioinformatics','project','trends']
+categories: ['command line','masters','python','bioinformatics','tool','trends']
 ---
 
 # Acidoseq

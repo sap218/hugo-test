@@ -7,7 +7,7 @@ pagination: true
 
 # Dr Samantha Pendleton
 
-Wrangler of data, ontologies, and clusters. 
+Engineer of data, ontologies, and clusters. 
 
 Thrower of pots, controllers, and eggs.
 

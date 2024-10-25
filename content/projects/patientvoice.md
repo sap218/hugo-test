@@ -2,7 +2,7 @@
 title: "Patient Voice"
 date: 2023-01-01
 toc: true
-categories: ['ontology','nlp','tf-idf','project','patient voice','phd','semantic similarity','sentiment']
+categories: ['ontology','nlp','tf-idf','research','patient voice','phd','semantic similarity','sentiment','inflammation']
 ---
 
 # Investigations into the patient voice: a multi-perspective analysis of inflammation

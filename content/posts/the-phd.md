@@ -2,7 +2,7 @@
 title: "The PhD"
 date: 2023-12-12
 toc: true
-categories: ['phd','my perspective','ontology','machine learning','patient voice','sentiment','semantic similarity']
+categories: ['phd','my perspective','ontology','machine learning','patient voice','sentiment','semantic similarity','inflammation']
 ---
 
 # Becoming a Doctor in Clinical Informatics

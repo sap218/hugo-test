@@ -28,26 +28,31 @@ enable_pagination = true
 [[menu.navbar]]
 identifier = "about"
 name = "about"
-#title = "about"
 url = "/about/"
-weight = -100
-
-[[menu.navbar]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
-weight = 100
+weight = 1
 
 [[menu.navbar]]
 identifier = "posts"
 name = "posts"
 url = "/posts/"
-weight = -20
+weight = 2
 
 [[menu.navbar]]
 identifier = "projects"
 name = "projects"
 url = "/projects/"
-weight = 80
+weight = 3
+
+[[menu.navbar]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 4
+
+[[menu.navbar]]
+identifier = "random"
+name = "|  random"
+url = "/random/"
+weight = 5
 
 # end of page

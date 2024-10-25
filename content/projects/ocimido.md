@@ -2,7 +2,7 @@
 title: "OcIMIDo"
 date: 2021-06-18
 toc: true
-categories: ['ontology','nlp','tf-idf','sentiment','patient voice','project']
+categories: ['ontology','nlp','tf-idf','sentiment','patient voice','inflammation','tool']
 ---
 
 # Development and application of the Ocular Immune-Mediated Inflammatory Diseases ontology (OcIMIDo) enhanced with synonyms from online patient support forum conversation

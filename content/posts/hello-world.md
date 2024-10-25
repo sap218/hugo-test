@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2023-12-11
-categories: ['other']
+categories: ['command line','project']
 ---
 
 # Version 3 has been released
