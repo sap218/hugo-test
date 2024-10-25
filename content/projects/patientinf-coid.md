@@ -1,5 +1,5 @@
 ---
-title: "PatientINF & COID"
+title: "The Patient Voice as a Clinical Narrative via Embeddings: PatientINF & COID"
 date: 2022-04-20
 toc: true
 categories: ['ontology','nlp','tf-idf','patient voice','machine learning','semantic similarity','inflammation','tool']
@@ -34,7 +34,7 @@ Tests included Wilcoxon (the change of vector space) and a Pearson correlation c
 COID also used similar statistical methods for synonym curation from Pendleton et al. (2021).
 Futhermore, synonyms were also curated from PatientINF embedding model: looking at semantic similarity of terms of interest.
 
-{{< figure src="/ontologies/COID-snip.PNG" width=400 caption="**Figure**: Graphical representation of COID. Each node is a class and each edge is a relationship." alt="coid visualised" >}}
+{{< figure src="/coid/COID-snip.PNG" width=400 caption="**Figure**: Graphical representation of COID. Each node is a class and each edge is a relationship." alt="coid visualised" >}}
 
 ## Impact
 
@@ -42,7 +42,7 @@ Semantic characterisations of the models revealed clinicians consisted of more f
 Patient priorities were highlighted: showing how clinicians and patient similarites differ.
 For example, diarrhea and stomach cramp for patients are more similar yet not so much in the clinical domain.
 
-{{< figure src="/ontologies/cbpi_coid.png" width=500 caption="**Figure**: t-SNE of the released embedding model highlighing terms in COID. Each dot is a term and colours represent the category within COID." alt="embedding model visualised" >}}
+{{< figure src="/coid/cbpi_coid.png" width=500 caption="**Figure**: t-SNE of the released embedding model highlighing terms in COID. Each dot is a term and colours represent the category within COID." alt="embedding model visualised" >}}
 
 ## References
 

@@ -2,7 +2,7 @@
 title: "Masters Dissertation"
 date: 2018-10-02
 toc: true
-categories: ['masters','python','bioinformatics']
+categories: ['masters','python','bioinformatics','dissertation']
 ---
 
 # Metagenomics of Acid Soil: a study of Nanopore long-reads and Acidobacteria
@@ -86,4 +86,4 @@ I had such fun with this project that I made a Twitter bot, [`acidobot`](https:/
 
 After submission, I only had 4 days until the start of my [PhD]({{< ref "the-phd" >}} "phd blog"). Almost a year after submitting my Masters dissertation...I had my Masters graduation!
 
-{{< figure src="/aberystwyth/msc_graduation.jpg" width=400 alt="me at my masters graduation" >}}
+{{< figure src="/msc/msc_graduation.jpg" width=400 alt="me at my masters graduation" >}}

@@ -1,8 +1,8 @@
 ---
-title: "QoLo"
+title: "Quality of Life ontology (QoLo)"
 date: 2023-12-08
 draft: true
-categories: ['ontology','nlp','tf-idf','patient voice','project']
+categories: ['ontology','nlp','tf-idf','patient voice','sentiment','inflammation']
 ---
 
 # Quality of Life ontology (QoLo)

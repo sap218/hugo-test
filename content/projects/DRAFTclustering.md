@@ -1,11 +1,11 @@
 ---
-title: "Clustering"
+title: "A Biological Perspective into Inflammatory Bowel Disease and Sentiment via Clustering"
 date: 2022-12-01
 draft: true
-categories: ['ontology','nlp','tf-idf','patient voice','project']
+categories: ['machine learning']
 ---
 
-# Clustering blog
+# Unsupervised Machine Learning
 
 {{< color-block style="warning" >}}
 Come back soon.
@@ -13,4 +13,4 @@ Come back soon.
 
 p.s. note to self: don't forget to mention clustering betablockers work :)
 
-{{< figure src="/ml/workflow.png" width=600 caption="**Figure**: Graphical representation of COID. Each node is a class and each edge is a relationship." alt="coid visualised" >}}
+{{< figure src="/clustering/workflow.png" width=600 caption="**Figure**: Graphical representation of COID. Each node is a class and each edge is a relationship." alt="coid visualised" >}}

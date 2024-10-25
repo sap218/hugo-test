@@ -1,15 +1,15 @@
 ---
-title: "Data Wrangler"
-date: 2024-09-01
+title: "A Wrangler of Data"
+date: 2024-10-25
 draft: true
 toc: true
 categories: ['my perspective','job','r','shiny','python']
 ---
 
-# Data Wrangler
+# Life as a Data Wrangler
 
 {{< color-block style="info" >}}
-The information in this post is my personal journey. I aim to inform and share my experience with you – the reader.
+The information in this post is my personal journey. I aim to inform and share my experience with you – the reader - to describe my experience as a Data Wrangler.
 {{< /color-block >}}
 
 ## Background
@@ -17,20 +17,18 @@ The information in this post is my personal journey. I aim to inform and share m
 During the final writing stages of [my PhD]({{< ref "the-phd" >}}) I started the job hunt! 
 In May 2022, only a few days after completing the thesis, I started my position as a Data Wrangler at the University of Oxford.
 
-<!--
-| Got the job | First day |
-| -------- | ------- |
-| {{< figure src="/oxford/got-the-job.jpg" width=250 alt="cocktail" >}} | {{< figure src="/oxford/first-day.jpg" width=250 alt="ready" >}} |
--->
-
 I was in the Big Data Institute...
 
-{{< figure src="/oxford/bdi.jpg" width=550 alt="bdi" >}}
+{{< figure src="/wrangler/bdi.jpg" width=550 alt="bdi" >}}
 
 ## The Job
 
 + Rshiny
 + Reproducibility
+
+## Papers 
+
++ Ocampo, Alex, et al. "Prognostic factors for worsening and improvement in multiple sclerosis using a multistate model." Multiple Sclerosis Journal (2024): 13524585241275471.
 
 ## Wrapping-up
 
@@ -39,4 +37,4 @@ I was in the Big Data Institute...
 
 | Oxford musuem | Largest bookselling room |
 | -------- | ------- |
-| {{< figure src="/oxford/bones.jpg" width=300 alt="bones" >}} | {{< figure src="/oxford/bookstore.jpg" width=300 alt="book" >}} |
+| {{< figure src="/wrangler/bones.jpg" width=300 alt="bones" >}} | {{< figure src="/wrangler/bookstore.jpg" width=300 alt="book" >}} |

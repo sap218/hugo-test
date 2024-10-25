@@ -1,10 +1,10 @@
 ---
 title: "Undergraduate"
 date: 2017-07-30
-categories: ['undergraduate']
+categories: ['undergraduate','web development','dissertation']
 ---
 
-# Highlights during my Undergraduate degree
+# Highlights of my Undergraduate degree
 
 {{< color-block style="info" >}}
 Although this post was written in 2023, it is backdated to 2017.
@@ -23,13 +23,13 @@ It's been a few years but I remember enjoying the Web programming, Machine Learn
 The Figure below visualises this: both wordcount and lines of code peaked in my third and final year.
 My most used language were web-based and - as mentioned - I couldn't figure out Java and so this was my least used language, having wrote a total of 31 lines...
 
-{{< figure src="/aberystwyth/ug_summary.png" caption="**Figure**: Barplots showing the most used languages, wordcount, and lines of code summaries by year. Note: plots may not be 100% correct." alt="barplots showing my undergraduate summaries" >}}
+{{< figure src="/undergraduate/ug_summary.png" caption="**Figure**: Barplots showing the most used languages, wordcount, and lines of code summaries by year. Note: plots may not be 100% correct." alt="barplots showing my undergraduate summaries" >}}
 
 My dissertation was a web project: students were to develop a site with a back-end database.
 I spoke to my aunt and used their small cake business as inspiration.
 See the Screenshot below of the final product front page.
 
-{{< figure src="/aberystwyth/littlecakebox.PNG" width=600 caption="**Screenshot**: Front page of my Undergraduate Dissertation website." alt="screenshot of undergraduate dissertation website" >}}
+{{< figure src="/undergraduate/littlecakebox.PNG" width=600 caption="**Screenshot**: Front page of my Undergraduate Dissertation website." alt="screenshot of undergraduate dissertation website" >}}
 
 A lot of fellow students used Bootstrap for the front-end design, however I wanted challenge myself and make this from scratch with CSS.
 The website consisted of: a gallery of cakes, a mini-blog, an order system, and review form.
@@ -42,4 +42,4 @@ My [undergraduate dissertation](https://github.com/sap218/misc/blob/master/under
 
 | Undergraduate graduation | Aberystwyth seafront |
 | -------- | ------- |
-| {{< figure src="/aberystwyth/ug_graduation.jpg" width=450 alt="me at my undergraduate graduation" >}} | {{< figure src="/aberystwyth/seafront.jpg" width=450 alt="my photo of aberystwyth seafront" >}} |
+| {{< figure src="/undergraduate/ug_graduation.jpg" width=450 alt="me at my undergraduate graduation" >}} | {{< figure src="/undergraduate/seafront.jpg" width=450 alt="my photo of aberystwyth seafront" >}} |

@@ -1,8 +1,8 @@
 ---
-title: "Bioinformatics"
+title: "Summer of Bioinformatics"
 date: 2017-10-06
 toc: true
-categories: ['python','bioinformatics','job','project']
+categories: ['python','bioinformatics']
 ---
 
 # My first Bioinformatics experience
@@ -86,4 +86,4 @@ I also presented my poster to the Aberystwyth Bioinformatics lab, where we discu
 I would like to thank my supervisor [Amanda Clare](https://twitter.com/afcaber "Amanda's Twitter") for the fun opportunity and researcher [Andre Soares](https://twitter.com/GeoMicroSoares "Andre's Twitter") for the help and discussions about the data.
 Also thank you, [Sam Nicholls](https://twitter.com/samstudio8 "Sam's Twitter"), the developer of `Goldilocks`, for helping me!
 
-{{< figure src="/aberystwyth/poster.jpg" width=350 alt="me presenting my bioinformatics poster" >}}
+{{< figure src="/undergraduate/poster.jpg" width=350 alt="me presenting my bioinformatics poster" >}}

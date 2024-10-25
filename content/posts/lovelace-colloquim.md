@@ -1,10 +1,10 @@
 ---
-title: "Lovelace Colloquim"
+title: "Lovelace Colloquim 2018"
 date: 2018-04-06
 categories: ['conference','bioinformatics']
 ---
 
-# BCS Lovelace Colloquim
+# Attending the 2018 Lovelace Colloquim in Sheffield
 
 **tl;dr**: my first conference, very fun!
 
@@ -15,14 +15,12 @@ This year's conference (2018) was held in Sheffield, which I was both excited an
 Due to terrible traffic on the way to Sheffield, I missed the beginning of the social activities (the treasure hunt). But was able to join the group a little towards the end of the evening.
 I met fellow conference attendees from Aberdeen, Bath, and even new Aberystwyth students.
 
-## The day of the conference
+## Day of the conference
 
 I woke up at 7:30am the next day, left the lodge at 9am to leisurely stroll over to the venue, whilst enjoying the sights of the town.
 At the venue I got my name sticker - that I forever stuck to my laptop! I also got a freebie bold set of - colourful - Google sunglasses.
 
-The conference talks were held at a lovely lecture theatre with beautiful stained glass windows and a design at the entrance also (photo below), where I enjoyed a variety of interesting talks about careers and fields of study.
-
-{{< figure src="/aberystwyth/lovelace-venue.jpg" width=300 alt="photo of stained glass window at lovelace venue in sheffield uni" >}}
+The conference talks were held at a lovely lecture theatre with beautiful stained glass windows and a design at the entrance also (photo at bottom), where I enjoyed a variety of interesting talks about careers and fields of study.
 
 The key-note speaker, [Tanja Lichtensteiger](https://twitter.com/grappleshark "Lovelace key-note Tanja Lichtensteiger"), gave an amazing talk about her background, career, and upbringing. I appreciated the personality in the presentation as she also talked about her other interests and hobbies.
 There was a wonderful panel at the end with inspiring individuals in tech and each panel member invested their time answering questions with their insightful experiences.
@@ -41,4 +39,6 @@ The wide variety of individuals and posters makes for such a lovely event. The e
 
 Finally, I would like to recommend, "The Street Food Chef", in Sheffield: they do amazing burritos!
 
-{{< figure src="/aberystwyth/lovelace.jpg" width=350 alt="me presenting my bioinformatics poster at the lovelace conference" >}}
+| My poster | Entrance |
+| -------- | ------- |
+| {{< figure src="/lovelace/lovelace.jpg" width=300 alt="me presenting my bioinformatics poster at the lovelace conference" >}} | {{< figure src="/lovelace/lovelace-venue.jpg" width=300 alt="photo of stained glass window at lovelace venue in sheffield uni" >}} |

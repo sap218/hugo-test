@@ -1,5 +1,5 @@
 ---
-title: "The PhD"
+title: "The PhD experience"
 date: 2023-12-12
 toc: true
 categories: ['phd','my perspective','ontology','machine learning','patient voice','sentiment','semantic similarity','inflammation']
@@ -53,7 +53,7 @@ But I continued on...
 I was working on a cardiovascular clinical trial data to look at the effect of beta-blockers, developing an ontology for uveitis, diving into text analysis and more.
 I was finally using `Python dictionaries` and discovering the world of dimensionality reduction techniques.
 
-{{< figure src="/academia/first-seminar.jpg" width="500" alt="presenting at my first seminar on my birthday" >}}
+{{< figure src="/thephd/first-seminar.jpg" width="450" alt="presenting at my first seminar on my birthday" >}}
 
 On my birthday I [presented at my first seminar](https://twitter.com/sap218/status/1225068022483836929 "first seminar") (see photo above).
 And then **COVID**.
@@ -84,10 +84,6 @@ Lots of online meetings - with lots of slideshows - each week were updates of my
 Tense conversations were had, but all to a good purpose: I was becoming a better communicator of science and I am grateful for my supervisor in trusting me with this.
 
 ### Writing-up / Year 4 (Oct 2021-May 2022)
-
-| First day | Entering my final year |
-| -------- | ------- |
-| {{< figure src="/academia/first-day.jpg" width=181 alt="on my first day" >}} | {{< figure src="/academia/final-year.jpg" width=190 alt="entering my final year" >}} |
 
 Writing-up the PhD was quite the experience.
 I had heard stories from others and I previously watched my [partner complete their PhD]({{< ref "outsider-perspective-of-phd" >}} "outside perspective of PhD") and somewhat knew what was coming.
@@ -149,7 +145,7 @@ The photograph below (left) is immediately post-Viva with the celebration cake m
 
 | Post-Viva celebration | PhD award |
 | -------- | ------- |
-| {{< figure src="/academia/post-viva-cake.jpg" width=400 alt="me immediately post viva with my celebration cake" >}} | {{< figure src="/academia/phd-award.jpg" width=400 alt="me immediately post viva with my celebration cake" >}} |
+| {{< figure src="/thephd/post-viva-cake.jpg" width=400 alt="me immediately post viva with my celebration cake" >}} | {{< figure src="/thephd/phd-award.jpg" width=400 alt="me immediately post viva with my celebration cake" >}} |
 
 **INVESTIGATIONS INTO THE PATIENT VOICE: A MULTI-PERSPECTIVE ANALYSIS OF INFLAMMATION**
 
@@ -167,4 +163,4 @@ What else have I been up to?
 + In November: 2021 I went to York; 2022 Bath spa; 2023 Leamington Spa for award-winning chicken wings.
 + Started my post-PhD job at the University of Oxford as a Data Wrangler/Data Scientist and moved to Oxford! (*blog comming soon*)
 
-{{< figure src="/academia/graduation.jpg" width="300" alt="me with the fancy PhD cap and gown" >}}
+{{< figure src="/thephd/graduation.jpg" width="300" alt="me with the fancy PhD cap and gown" >}}

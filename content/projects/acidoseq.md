@@ -1,13 +1,13 @@
 ---
-title: "Acidoseq"
+title: "Acidoseq: a toolkit for the studying of Acidobacteria sequences"
 date: 2018-11-24
 categories: ['command line','masters','python','bioinformatics','tool','trends']
 ---
 
 # Acidoseq
 
-**Acidoseq** is tool for studying unclassified Acidobacteria reads from Nanopore metagenomic data.
-It is a `Python` package available open-source on [GitHub](https://github.com/sap218/acidoseq "github") with a [condensed paper](https://github.com/sap218/misc/blob/master/acidoseq.pdf "condensed acidoseq paper").
+**Acidoseq** is a tool for studing metagenomic reads, grouping Acidobacteria classified and unclassified reads into subdivisons based on `GC` content.
+It is a `Python` package, designed for Nanopore sequences, available open-source on [GitHub](https://github.com/sap218/acidoseq "github") with a [condensed paper](https://github.com/sap218/misc/blob/master/acidoseq.pdf "condensed acidoseq paper").
 
 This work was a part of my [Masters degree]({{< ref "masters-dissertation" >}} "masters blog") (2018), which the [dissertation](https://github.com/sap218/misc/blob/master/postgraduate_dissertation.pdf "msc dissertation") is available to read.
 
@@ -37,11 +37,11 @@ $ acidoseq --taxdumptype U --kaijufile result_seqid_taxon.csv --fastapath all.fa
 
 Using the mapping function, I inferred soil pH levels at `6.25` (see the Figure below).
 
-{{< figure src="/aberystwyth/acidomap.PNG" width=350 caption="**Figure**: Feature of Acidoseq to plot the UK soil pH levels." alt="map of soil pH levels in the UK" >}}
+{{< figure src="/acidoseq/acidomap.PNG" width=350 caption="**Figure**: Feature of Acidoseq to plot the UK soil pH levels." alt="map of soil pH levels in the UK" >}}
 
 Then after running **acidoseq** on the unclassified reads, we see that many reads are divided into subdivisions 4, 6, and 22 as one would expect with this pH (see the Figure below).
 
-{{< figure src="/aberystwyth/acidoseq.PNG" width=350 caption="**Figure**: The `GC` content and subdivison visualiation of the reads." alt="plot of GC content and subdivisions" >}}
+{{< figure src="/acidoseq/acidoseq.PNG" width=350 caption="**Figure**: The `GC` content and subdivison visualiation of the reads." alt="plot of GC content and subdivisions" >}}
 
 We then ran the unclassified reads though `BLAST`[^4] to see annotations/alignments.
 From the `BLAST` output, we see reads aigned to subdivisions 6 and 4: there was presence of Luteitalea pratensis (90.91%) which resides in subdivision 6 and Pyrinomonas methylaliphatogenes strain K22 which resides in subdivision 4.

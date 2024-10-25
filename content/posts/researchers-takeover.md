@@ -2,7 +2,7 @@
 title: "ResearcHers Code takeover"
 date: 2021-02-12
 toc: true
-categories: ['phd','trends']
+categories: ['phd','my perspective']
 ---
 
 {{< color-block style="info" >}}

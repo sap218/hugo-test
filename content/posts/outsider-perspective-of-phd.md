@@ -28,7 +28,7 @@ Important: negative emotions/red doesn't reflect anger.
 Moreover, the colours chosen aim to reflect the emotion: grey is neutral, green is positive, blue is not-so-great/sad, and red is negative.
 There was time-blip between March (03/2017) to October (10/2017) as I was deep into my undergraduate dissertation and web project.
 
-{{< figure src="/academia/phd_emotion.jpg" caption="**Figure**: Plot showing the emotional stability over time, of PhD candidate Sam, in my *subjective* opinion." alt="line time plot showing the emotional stability of a phd student" >}}
+{{< figure src="/outsidephd/phd_emotion.jpg" caption="**Figure**: Plot showing the emotional stability over time, of PhD candidate Sam, in my *subjective* opinion." alt="line time plot showing the emotional stability of a phd student" >}}
 
 I saw that his emotions varied often, even in times he seemed happy or grumpy, he was often saying things that would imply the opposite.
 Screaming how "Bioinformatics is shit" seems like quite the negative thing to say yet he was laughing and seemed joyful, although it may have been the wine talking.
@@ -75,4 +75,4 @@ He wore a great waistcoat and a brilliant tie with chromosomes.
 Post Viva, Sam had much more energy! We went on walks and explored Aberystwyth's Old College (ashamed that I had never in my 4 years in Aberystwyth had visited).
 **Congratulations Dr. Sam Nicholls!**
 
-{{< figure src="/aberystwyth/drsam.jpg" width="300" alt="dr sam with the lovely chromosome tie on the morning of his viva" >}}
+{{< figure src="/outsidephd/drsam.jpg" width="300" alt="dr sam with the lovely chromosome tie on the morning of his viva" >}}

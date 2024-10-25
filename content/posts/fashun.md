@@ -2,7 +2,7 @@
 title: "Fashun"
 date: 2022-10-21
 toc: true
-categories: ['r','shiny','sentiment','trends','project']
+categories: ['r','shiny','sentiment','trends']
 ---
 
 # Fashun: an `R` Shiny App of fashion trends

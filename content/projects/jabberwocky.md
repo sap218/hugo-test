@@ -1,5 +1,5 @@
 ---
-title: "Jabberwocky"
+title: "Jabberwocky: an NLP toolkit for those nonsensical ontologies"
 date: 2021-05-11
 categories: ['python','ontology','nlp','tf-idf','tool']
 ---

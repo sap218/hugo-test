@@ -2,10 +2,10 @@
 title: "Colours"
 date: 2019-12-11
 toc: true
-categories: ['python','command line','nlp','sentiment']
+categories: ['python','command line','tool']
 ---
 
-# Rainbow project
+# The Rainbow project
 
 A set of fun - little - projects developed with `Python` for the command line interface.
 
