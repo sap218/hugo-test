@@ -54,7 +54,7 @@ Sentiment analysis revealed that first posts were significantly more negative th
 
 This research can lead to improved patient condition management and positive QoL interventions: bridging gaps in the clinical and patient domain.
 
-{{< figure src="/ontologies/OCIMIDO_Graphical-Abstract_colour_2021.png" width=600 caption="**Figure**: Graphical abstract of the the project highlighting the (1) background, (2) methods, and (3) outcome. See the [MIRO](https://sap218.github.io/ocimido/MIRO 'miro') guidelines for reporting an ontology." alt="graphical abstract of the the project" >}}
+{{< figure src="/ocimido/OCIMIDO_Graphical-Abstract_colour_2021.png" width=600 caption="**Figure**: Graphical abstract of the the project highlighting the (1) background, (2) methods, and (3) outcome. See the [MIRO](https://sap218.github.io/ocimido/MIRO 'miro') guidelines for reporting an ontology." alt="graphical abstract of the the project" >}}
 
 ## References
 
