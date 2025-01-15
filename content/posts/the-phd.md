@@ -110,7 +110,6 @@ So with the help from my partner, we spent a lot of evenings proof-reading the t
 A patient's experience with their chronic, inflammatory disease is complex yet they are the expert of their experience and their voice is indispensable to science.
 
 **Note**: you can read a summary of my research in a separate [project page]({{< ref "patientvoice" >}}).
-<!-- If you wish to skip, you can [click here to continue onto the Viva]({{< relref "the-phd.md#viva-sep-2022" >}}). -->
 
 ## Viva (Sep 2022)
 

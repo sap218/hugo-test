@@ -28,8 +28,6 @@ There was a wonderful panel at the end with inspiring individuals in tech and ea
 The poster presentation was an amazing experience! I spoke to people about both mine and their posters.
 I met some truly great students at the event with their creative posters, in addition to different companies: gaining some freebies!
 
-<!--A [photo album](https://www.flickr.com/photos/handee/sets/72157695301730515/) was curated-->
-
 ## Post-conference
 
 Before travelling back, I went sightseeing in Sheffield. I saw the "Peace Gardens", admired the Cathedrals, and noticed that Sheffield has a [Walk of Fame](https://twitter.com/sap218/status/979465936976662536 "my picture of Sheffield's Walk of Fame"). I also saw a Tram for the first time, but I wished I had the excuse to travel on one.
