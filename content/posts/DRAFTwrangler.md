@@ -1,8 +1,7 @@
 ---
 title: "A Wrangler of Data"
-date: 2024-10-25
+date: 2025-01-20
 draft: true
-toc: true
 categories: ['my perspective','job','r','shiny','python']
 ---
 
@@ -15,16 +14,22 @@ The information in this post is my personal journey. I aim to inform and share m
 ## Background
 
 During the final writing stages of [my PhD]({{< ref "the-phd" >}}) I started the job hunt! 
-In May 2022, only a few days after completing the thesis, I started my position as a Data Wrangler at the University of Oxford.
-
-I was in the Big Data Institute...
+In May 2022, only a few days after completing the thesis, I began the Data Wrangling position at the University of Oxford.
 
 {{< figure src="/wrangler/bdi.jpg" width=550 alt="bdi" >}}
 
-## The Job
+I was located at the Big Data Institute (BDI) working on the Oxford-Novartis Collaboration.
+The collaboration involved clinical trial studies on patients with Multiple Sclerosis (MS). [cite annie's paper https://pmc.ncbi.nlm.nih.gov/articles/PMC8590765/] 
 
-+ Rshiny
-+ Reproducibility
+My role as a Data Wrangler was to produce derivations of the data for specific projects.
+
+## Git
+
+One of my major achievements was encouraging the use of GitLab in the wider team for reproducibility.
+
+## RShiny
+
+Another major outcome was the creation of the MS Data Dashboard
 
 ## Papers 
 
