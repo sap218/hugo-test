@@ -160,6 +160,6 @@ What else have I been up to?
 + In 2019 my New Year Resolution was to try a new thing every week and a lot of these included work/PhD ([Twitter/X thread](https://twitter.com/sap218/status/1082047398652850179 "twitter thread of all the things i did in 2019")).
 + During lockdown I got pretty good at burger flipping.
 + In November: 2021 I went to York; 2022 Bath spa; 2023 Leamington Spa for award-winning chicken wings.
-+ Started my post-PhD job at the University of Oxford as a Data Wrangler/Data Scientist and moved to Oxford! (*blog comming soon*)
++ Started my post-PhD job at the University of Oxford as a Data Wrangler/Data Scientist and moved to Oxford!
 
 {{< figure src="/thephd/graduation.jpg" width="300" alt="me with the fancy PhD cap and gown" >}}
