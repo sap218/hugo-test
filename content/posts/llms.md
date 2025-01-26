@@ -1,7 +1,6 @@
 ---
 title: "What's the <catch> with ChatGPT?"
-date: 2025-01-22
-draft: true
+date: 2025-01-26
 toc: true
 categories: ['python','machine learning','nlp','semantic similarity','sentiment','trends']
 ---
