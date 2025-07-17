@@ -1,7 +1,7 @@
 ---
 title: "Ocular Immune-Mediated Inflammatory Diseases ontology (OcIMIDo)"
 date: 2021-06-18
-toc: true
+toc: false
 categories: ['ontology','nlp','tf-idf','sentiment','patient voice','inflammation','tool']
 ---
 

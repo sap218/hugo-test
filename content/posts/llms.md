@@ -12,7 +12,6 @@ This isn't about ChatGPT specifically but rather about the larger picture: Large
 ChatGPT *is* a large language model.
 
 ## Introduction
-
 Many Natural Language Processing (**NLP**) tools are perhaps becoming obsolete with the emergence of complex LLMs, most notably ChatGPT.
 
 LLMs have been around for a while but gained attention around 2020 when GPT3 was released by OpenAI[^openai].

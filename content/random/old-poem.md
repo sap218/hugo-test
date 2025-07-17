@@ -19,10 +19,10 @@ It's raining mud, the sun seems timid.
 Sweaty, dizzy, and confused;
 The youths are rising and all bruised.
 
-Smoggy gas shading a purple and green light,
+Smoggy gas shading a purple and green light;
 Reaching for my gas mask as my chest becomes tight.
 
-Blinded by fog, he’s having a fit;
+Blinded by fog, he's having a fit;
 We're all struggling in this gas pit.
 
 Short of breath, he was found;
@@ -34,16 +34,16 @@ Some pray for him as he still groans.
 Spitting out blood, the spasms perish down;
 Wishing I saved him, there's no more sound.
 
-A man of honour and my friend,
+A man of honour and my friend;
 Unfortunately now, it's the end.
 
 Because of me, he's not alive;
-I'm no hero, he didn’t survive.
+I'm no hero, he didn't survive.
 
-Blood everywhere and ear banging sounds,
+Blood everywhere and ear banging sounds;
 It's no fun, this is the devil's playground.
 
-It's been years since that day,
+It's been years since that day;
 I still cry at night, calling for mayday.
 
 {{< color-block style="error" >}}

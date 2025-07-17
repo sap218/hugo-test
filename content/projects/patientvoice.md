@@ -49,7 +49,6 @@ In future, this work can highlight extra investigations during the diagnosis pro
 ---
 
 ## Thesis summary
-
 Inflammation is the body's first response to threat, generally present in many cases, and has a complex relationship with a wide range of diseases.
 
 ### Chapter 1

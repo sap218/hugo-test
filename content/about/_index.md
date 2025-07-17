@@ -7,7 +7,7 @@ pagination: true
 
 # Who and What
 
-+ PhD in Clinical Informatics - [check out my thesis](https://etheses.bham.ac.uk//id/eprint/13244/ "link to thesis")!
++ PhD in Clinical Informatics - [check out my thesis](https://etheses.bham.ac.uk//id/eprint/13244/ "link to thesis")! (or read a [summary here]({{< ref "patientvoice" >}}))
 + Software Data Engineer at the University of Oxford, [Big Data Institute](https://www.bdi.ox.ac.uk/Team/samantha-pendleton?ref=image "link to staff page").
 + Previously a Data Wrangler/Data Scientist in the Oxford-Novartis collaboration. 
 + Alma mater: University of Birmingham (PhD), Aberystwyth University (UG, MSc).

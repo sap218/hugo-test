@@ -1,7 +1,7 @@
 ---
 title: "The Patient Voice as a Clinical Narrative via Embeddings: PatientINF & COID"
 date: 2022-04-20
-toc: true
+toc: false
 categories: ['ontology','nlp','tf-idf','patient voice','machine learning','semantic similarity','inflammation','tool']
 ---
 
